@@ -1,0 +1,148 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 660" width="880" height="660" font-family="Helvetica, Arial, sans-serif">
+  <rect x="0" y="0" width="880" height="660" fill="#fbfaf7"/>
+
+  <text x="55" y="34" font-size="20" font-weight="bold" fill="#2c2c2c">Innenhof-Beet – Grundriss (Draufsicht), 7,00 × 2,00 m</text>
+  <text x="55" y="55" font-size="13" fill="#666">Maßstab 1 : 100 · ca. 102 Stauden · Buchstabe = Pflanzenart, Zahl = Stückzahl im Block</text>
+
+  <rect x="55" y="66" width="770" height="18" fill="#7fa06a"/>
+  <text x="440" y="79" font-size="11" fill="#ffffff" text-anchor="middle" font-weight="bold">HECKE (Hainbuche) – ca. 40 cm Abstand halten, hier trockenster Bereich</text>
+
+  <rect x="55" y="90" width="770" height="220" fill="#efe9dd" stroke="#8a8377" stroke-width="2"/>
+
+  <!-- HINTERE REIHE -->
+  <g stroke="#ffffff" stroke-width="1.5">
+    <rect x="55"  y="90" width="143" height="71.5" fill="#e8d9a0"/>
+    <rect x="198" y="90" width="176" height="71.5" fill="#b9c9e8"/>
+    <rect x="374" y="90" width="132" height="71.5" fill="#8fa8d0"/>
+    <rect x="506" y="90" width="176" height="71.5" fill="#b9c9e8"/>
+    <rect x="682" y="90" width="143" height="71.5" fill="#e8d9a0"/>
+  </g>
+  <g fill="#1c1c1c" text-anchor="middle">
+    <text x="126" y="134" font-size="26" font-weight="bold">R<tspan font-size="17" font-weight="normal"> ×3</tspan></text>
+    <text x="286" y="134" font-size="26" font-weight="bold">B<tspan font-size="17" font-weight="normal"> ×4</tspan></text>
+    <text x="440" y="134" font-size="26" font-weight="bold">K<tspan font-size="17" font-weight="normal"> ×5</tspan></text>
+    <text x="594" y="134" font-size="26" font-weight="bold">B<tspan font-size="17" font-weight="normal"> ×3</tspan></text>
+    <text x="753" y="134" font-size="26" font-weight="bold">R<tspan font-size="17" font-weight="normal"> ×2</tspan></text>
+  </g>
+
+  <!-- MITTLERE REIHE -->
+  <g stroke="#ffffff" stroke-width="1.5">
+    <rect x="55"  y="161.5" width="132" height="77" fill="#b49ad6"/>
+    <rect x="187" y="161.5" width="99"  height="77" fill="#f0b0a4"/>
+    <rect x="286" y="161.5" width="132" height="77" fill="#f2cf8a"/>
+    <rect x="418" y="161.5" width="77"  height="77" fill="#d8dcb0"/>
+    <rect x="495" y="161.5" width="132" height="77" fill="#b49ad6"/>
+    <rect x="627" y="161.5" width="110" height="77" fill="#f0b0a4"/>
+    <rect x="737" y="161.5" width="88"  height="77" fill="#d8dcb0"/>
+  </g>
+  <g fill="#1c1c1c" text-anchor="middle">
+    <text x="121" y="209" font-size="26" font-weight="bold">S<tspan font-size="17" font-weight="normal"> ×8</tspan></text>
+    <text x="236" y="209" font-size="26" font-weight="bold">F<tspan font-size="17" font-weight="normal"> ×6</tspan></text>
+    <text x="352" y="209" font-size="26" font-weight="bold">A<tspan font-size="17" font-weight="normal"> ×9</tspan></text>
+    <text x="456" y="209" font-size="26" font-weight="bold">E<tspan font-size="17" font-weight="normal"> ×3</tspan></text>
+    <text x="561" y="209" font-size="26" font-weight="bold">S<tspan font-size="17" font-weight="normal"> ×7</tspan></text>
+    <text x="682" y="209" font-size="26" font-weight="bold">F<tspan font-size="17" font-weight="normal"> ×6</tspan></text>
+    <text x="781" y="209" font-size="26" font-weight="bold">E<tspan font-size="17" font-weight="normal"> ×2</tspan></text>
+  </g>
+
+  <!-- VORDERE REIHE -->
+  <g stroke="#ffffff" stroke-width="1.5">
+    <rect x="55"  y="238.5" width="88"  height="71.5" fill="#8fc9bd"/>
+    <rect x="143" y="238.5" width="121" height="71.5" fill="#a8d3e0"/>
+    <rect x="264" y="238.5" width="99"  height="71.5" fill="#b6d6a0"/>
+    <rect x="363" y="238.5" width="121" height="71.5" fill="#e8a8cc"/>
+    <rect x="484" y="238.5" width="88"  height="71.5" fill="#a8d3e0"/>
+    <rect x="572" y="238.5" width="77"  height="71.5" fill="#8fc9bd"/>
+    <rect x="649" y="238.5" width="99"  height="71.5" fill="#b6d6a0"/>
+    <rect x="748" y="238.5" width="77"  height="71.5" fill="#e8a8cc"/>
+  </g>
+  <g fill="#1c1c1c" text-anchor="middle">
+    <text x="99"  y="283" font-size="26" font-weight="bold">H<tspan font-size="17" font-weight="normal"> ×5</tspan></text>
+    <text x="203" y="283" font-size="26" font-weight="bold">N<tspan font-size="17" font-weight="normal"> ×7</tspan></text>
+    <text x="313" y="283" font-size="26" font-weight="bold">T<tspan font-size="17" font-weight="normal"> ×6</tspan></text>
+    <text x="423" y="283" font-size="26" font-weight="bold">G<tspan font-size="17" font-weight="normal"> ×6</tspan></text>
+    <text x="528" y="283" font-size="26" font-weight="bold">N<tspan font-size="17" font-weight="normal"> ×5</tspan></text>
+    <text x="610" y="283" font-size="26" font-weight="bold">H<tspan font-size="17" font-weight="normal"> ×5</tspan></text>
+    <text x="698" y="283" font-size="26" font-weight="bold">T<tspan font-size="17" font-weight="normal"> ×6</tspan></text>
+    <text x="786" y="283" font-size="26" font-weight="bold">G<tspan font-size="17" font-weight="normal"> ×4</tspan></text>
+  </g>
+
+  <g font-size="10" fill="#6b6459" text-anchor="start">
+    <text x="833" y="120">hinten</text>
+    <text x="833" y="132">80–120 cm</text>
+    <text x="833" y="194">Mitte</text>
+    <text x="833" y="206">40–70 cm</text>
+    <text x="833" y="268">vorne</text>
+    <text x="833" y="280">15–35 cm</text>
+  </g>
+
+  <rect x="55" y="310" width="770" height="20" fill="#b8b3ab"/>
+  <text x="440" y="324" font-size="11" fill="#ffffff" text-anchor="middle" font-weight="bold">BETONKANTE / SITZKANTE – vorne niedrig bleiben</text>
+  <text x="440" y="348" font-size="11" fill="#777" text-anchor="middle">Weg (Zugang, von hier aus wird gepflegt)</text>
+
+  <g stroke="#6b6459" stroke-width="1" fill="none">
+    <line x1="55" y1="378" x2="825" y2="378"/>
+    <line x1="55" y1="373" x2="55" y2="383"/>
+    <line x1="825" y1="373" x2="825" y2="383"/>
+    <line x1="38" y1="90" x2="38" y2="310"/>
+    <line x1="33" y1="90" x2="43" y2="90"/>
+    <line x1="33" y1="310" x2="43" y2="310"/>
+  </g>
+  <text x="440" y="372" font-size="12" fill="#6b6459" text-anchor="middle">7,00 m</text>
+  <text x="26" y="204" font-size="12" fill="#6b6459" text-anchor="middle" transform="rotate(-90 26 204)">2,00 m</text>
+
+  <text x="55" y="418" font-size="15" font-weight="bold" fill="#2c2c2c">Legende</text>
+
+  <g font-size="13" fill="#2c2c2c">
+    <rect x="55" y="430" width="22" height="18" fill="#e8d9a0" stroke="#8a8377"/>
+    <text x="66" y="444" font-size="14" font-weight="bold" text-anchor="middle">R</text>
+    <text x="88" y="444">Rutenhirse · Panicum virgatum `Heavy Metal` — 5 Stk</text>
+
+    <rect x="55" y="454" width="22" height="18" fill="#b9c9e8" stroke="#8a8377"/>
+    <text x="66" y="468" font-size="14" font-weight="bold" text-anchor="middle">B</text>
+    <text x="88" y="468">Blauraute · Perovskia `Blue Spire` — 7 Stk</text>
+
+    <rect x="55" y="478" width="22" height="18" fill="#8fa8d0" stroke="#8a8377"/>
+    <text x="66" y="492" font-size="14" font-weight="bold" text-anchor="middle">K</text>
+    <text x="88" y="492">Kugeldistel · Echinops ritro `Veitch's Blue` — 5 Stk</text>
+
+    <rect x="55" y="502" width="22" height="18" fill="#b49ad6" stroke="#8a8377"/>
+    <text x="66" y="516" font-size="14" font-weight="bold" text-anchor="middle">S</text>
+    <text x="88" y="516">Steppen-Salbei · Salvia nemorosa `Caradonna` — 15 Stk</text>
+
+    <rect x="55" y="526" width="22" height="18" fill="#f0b0a4" stroke="#8a8377"/>
+    <text x="66" y="540" font-size="14" font-weight="bold" text-anchor="middle">F</text>
+    <text x="88" y="540">Hohe Fetthenne · Sedum `Herbstfreude` — 12 Stk</text>
+
+    <rect x="55" y="550" width="22" height="18" fill="#f2cf8a" stroke="#8a8377"/>
+    <text x="66" y="564" font-size="14" font-weight="bold" text-anchor="middle">A</text>
+    <text x="88" y="564">Schafgarbe · Achillea `Terracotta` — 9 Stk</text>
+
+    <rect x="450" y="430" width="22" height="18" fill="#d8dcb0" stroke="#8a8377"/>
+    <text x="461" y="444" font-size="14" font-weight="bold" text-anchor="middle">E</text>
+    <text x="483" y="444">Silber-Ährengras · Achnatherum calamagrostis — 5 Stk</text>
+
+    <rect x="450" y="454" width="22" height="18" fill="#a8d3e0" stroke="#8a8377"/>
+    <text x="461" y="468" font-size="14" font-weight="bold" text-anchor="middle">N</text>
+    <text x="483" y="468">Katzenminze · Nepeta `Walker's Low` — 12 Stk</text>
+
+    <rect x="450" y="478" width="22" height="18" fill="#e8a8cc" stroke="#8a8377"/>
+    <text x="461" y="492" font-size="14" font-weight="bold" text-anchor="middle">G</text>
+    <text x="483" y="492">Blut-Storchschnabel · Geranium sanguineum — 10 Stk</text>
+
+    <rect x="450" y="502" width="22" height="18" fill="#b6d6a0" stroke="#8a8377"/>
+    <text x="461" y="516" font-size="14" font-weight="bold" text-anchor="middle">T</text>
+    <text x="483" y="516">Thymian · Thymus praecox / vulgaris — 12 Stk</text>
+
+    <rect x="450" y="526" width="22" height="18" fill="#8fc9bd" stroke="#8a8377"/>
+    <text x="461" y="540" font-size="14" font-weight="bold" text-anchor="middle">H</text>
+    <text x="483" y="540">Herbst-Blaugras · Sesleria autumnalis — 10 Stk</text>
+
+    <text x="483" y="564" fill="#666" font-size="12">Zwiebeln (300 Stk) dazwischen streuen – kein fester Platz</text>
+  </g>
+
+  <line x1="55" y1="584" x2="825" y2="584" stroke="#ddd8cf" stroke-width="1"/>
+  <text x="55" y="606" font-size="12" fill="#666">Pflanzabstände: Reihe hinten ca. 60–70 cm · Mitte ca. 35–40 cm · vorne ca. 30 cm.</text>
+  <text x="55" y="624" font-size="12" fill="#666">Blockgrenzen sind Richtwerte – an den Rändern die Gruppen leicht ineinander laufen lassen, das wirkt natürlicher.</text>
+  <text x="55" y="642" font-size="12" fill="#666">Nach der Pflanzung ganze Fläche 5–7 cm mit Splitt 8/16 mm mulchen.</text>
+</svg>
