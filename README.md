@@ -92,30 +92,30 @@ Alle Arten sind flach- bis mittelwurzelnd, voll winterhart und auf Dachbegrünun
 
 ### Reihe A – hinten, an der Hecke (Höhe 80–110 cm), 22 Stk
 
-| Pflanze | Stk | Warum |
-|---|---|---|
-| Blauraute *Perovskia* / *Salvia yangii* `Blue Spire` | 8 | Klassiker der Dachbegrünung, extrem hitzefest, 1× Schnitt im Frühjahr. Braucht ≥ 30 cm |
-| Silber-Ährengras *Achnatherum calamagrostis* | 9 | Rückt aus der Mitte nach hinten: mit Blüte 80–100 cm, feinwurzelig, sehr langlebig |
-| Myrtenaster *Aster (Symphyotrichum) ericoides* `Erlkönig` | 5 | Kein Pfahlwurzler, blüht Sept./Okt. und schließt die Blühlücke im Herbst |
+| Pflanze | Stk | Warum | Wikipedia |
+|---|---|---|---|
+| Blauraute *Perovskia* / *Salvia yangii* `Blue Spire` | 8 | Klassiker der Dachbegrünung, extrem hitzefest, 1× Schnitt im Frühjahr. Braucht ≥ 30 cm | [Silber-Perowskie](https://de.wikipedia.org/wiki/Silber-Perowskie) |
+| Silber-Ährengras *Achnatherum calamagrostis* | 9 | Rückt aus der Mitte nach hinten: mit Blüte 80–100 cm, feinwurzelig, sehr langlebig | [Silber-Raugras](https://de.wikipedia.org/wiki/Silber-Raugras) |
+| Myrtenaster *Aster (Symphyotrichum) ericoides* `Erlkönig` | 5 | Kein Pfahlwurzler, blüht Sept./Okt. und schließt die Blühlücke im Herbst | [Myrten-Aster](https://de.wikipedia.org/wiki/Myrten-Aster) |
 
 ### Reihe B – Mitte (Höhe 40–60 cm), 45 Stk
 
-| Pflanze | Stk | Warum |
-|---|---|---|
-| Steppen-Salbei *Salvia nemorosa* `Caradonna` | 15 | Wie im Angebot, `Caradonna` ist standfester als `Ostfriesland` |
-| Hohe Fetthenne *Sedum telephium* `Matrona` / `Herbstfreude` | 12 | Aus dem Angebot — die beste Pflanze überhaupt für flachen Wurzelraum |
-| Schafgarbe *Achillea* `Terracotta` | 9 | Lange Blüte, im mageren Substrat sogar standfester als im Gartenboden |
-| Steinquendel *Calamintha nepeta* `Triumphator` | 9 | Blüht Juli–Oktober durch, kippt nie um, Insektenmagnet, absolut trockenheitsfest |
+| Pflanze | Stk | Warum | Wikipedia |
+|---|---|---|---|
+| Steppen-Salbei *Salvia nemorosa* `Caradonna` | 15 | Wie im Angebot, `Caradonna` ist standfester als `Ostfriesland` | [Hain-Salbei](https://de.wikipedia.org/wiki/Hain-Salbei) |
+| Hohe Fetthenne *Sedum telephium* `Matrona` / `Herbstfreude` | 12 | Aus dem Angebot — die beste Pflanze überhaupt für flachen Wurzelraum | [Große Fetthenne](https://de.wikipedia.org/wiki/Gro%C3%9Fe_Fetthenne) |
+| Schafgarbe *Achillea* `Terracotta` | 9 | Lange Blüte, im mageren Substrat sogar standfester als im Gartenboden | [Schafgarben](https://de.wikipedia.org/wiki/Schafgarben) (Gattung) |
+| Steinquendel *Calamintha nepeta* `Triumphator` | 9 | Blüht Juli–Oktober durch, kippt nie um, Insektenmagnet, absolut trockenheitsfest | [Kleinblütige Bergminze](https://de.wikipedia.org/wiki/Kleinbl%C3%BCtige_Bergminze) |
 
 ### Reihe C – vorne, zum Weg (Höhe 15–35 cm), 48 Stk
 
-| Pflanze | Stk | Warum |
-|---|---|---|
-| Thymian *Thymus praecox* / *vulgaris* | 14 | Immergrün, duftet, im Lava-Mulch in seinem Element |
-| Katzenminze *Nepeta* `Walker's Low` | 12 | Deckt schnell, verdrängt Unkraut, blüht monatelang |
-| Herbst-Blaugras *Sesleria autumnalis* | 10 | Halbimmergrün, sehr langlebig, eines der besten Dachgräser |
-| Karthäusernelke *Dianthus carthusianorum* | 6 | Magerrasen-Pflanze, versamt sich moderat und schließt Lücken von selbst |
-| Blut-Storchschnabel *Geranium sanguineum* var. *striatum* | 6 | Dichter Teppich; bewusst nur eine kleine Gruppe, weil er von allen der durstigste ist |
+| Pflanze | Stk | Warum | Wikipedia |
+|---|---|---|---|
+| Thymian *Thymus praecox* / *vulgaris* | 14 | Immergrün, duftet, im Lava-Mulch in seinem Element | [Frühblühender Thymian](https://de.wikipedia.org/wiki/Fr%C3%BChbl%C3%BChender_Thymian) · [Echter Thymian](https://de.wikipedia.org/wiki/Echter_Thymian) |
+| Katzenminze *Nepeta* `Walker's Low` | 12 | Deckt schnell, verdrängt Unkraut, blüht monatelang | [Hybrid-Katzenminze](https://de.wikipedia.org/wiki/Hybrid-Katzenminze) |
+| Herbst-Blaugras *Sesleria autumnalis* | 10 | Halbimmergrün, sehr langlebig, eines der besten Dachgräser | [Sesleria autumnalis](https://en.wikipedia.org/wiki/Sesleria_autumnalis) (en) |
+| Karthäusernelke *Dianthus carthusianorum* | 6 | Magerrasen-Pflanze, versamt sich moderat und schließt Lücken von selbst | [Karthäusernelke](https://de.wikipedia.org/wiki/Karth%C3%A4usernelke) |
+| Blut-Storchschnabel *Geranium sanguineum* var. *striatum* | 6 | Dichter Teppich; bewusst nur eine kleine Gruppe, weil er von allen der durstigste ist | [Blutroter Storchschnabel](https://de.wikipedia.org/wiki/Blutroter_Storchschnabel) |
 
 ### Grundriss (Draufsicht, Blockeinteilung)
 
