@@ -1,27 +1,27 @@
 # Pflanz- und Pflegeplan Innenhof-Beet über Tiefgarage (ca. 2 × 7 m = 14 m²)
 
-Konzept: **Steppen-/Präriebeet** in Anlehnung an das Gärtner-Angebot, angepasst an die Bedingungen eines Beets auf einer Tiefgaragendecke: begrenzter Wurzelraum, keine Anbindung ans Grundwasser, Frost von allen Seiten, empfindliche Abdichtung darunter.
+Konzept: **Steppen-/Präriebeet**, ausgelegt auf die Bedingungen einer Tiefgaragendecke: begrenzter Wurzelraum, keine Anbindung ans Grundwasser, Frost von allen Seiten, empfindliche Abdichtung darunter.
 
-Ziel bleibt: **ein einziger Pflichtschnitt pro Jahr** und minimale Pflege. Das Versprechen „nach 2 Jahren praktisch keine Bewässerung mehr" gilt über einer Tiefgarage allerdings **nicht** — siehe [Abschnitt 6](#6-bewässerung--der-punkt-der-sich-durch-die-tiefgarage-am-stärksten-ändert).
+Ziel: **ein einziger Pflichtschnitt pro Jahr** und minimale Pflege. Gießfrei wird das Beet allerdings nie — auch nicht nach Jahren. Siehe [Abschnitt 6](#6-bewässerung--der-kritischste-punkt-im-ganzen-plan).
 
 Wie das Beet am Ende aussehen soll, zeigt der maßstäbliche [Grundriss mit Blockeinteilung, Legende und Schichtaufbau](#grundriss-draufsicht-blockeinteilung) in Abschnitt 3.
 
 ---
 
-## 0. Was sich durch die Tiefgarage ändert — Kurzfassung
+## 0. Die Rahmenbedingungen — Kurzfassung
 
-| Thema | Vorher (gewachsener Boden) | Jetzt (über Decke) |
-|---|---|---|
-| **Genehmigung** | Absprache wäre nett | **Pflicht.** Schriftliche Freigabe von WEG/Hausverwaltung, vorher Deckenaufbau erfragen |
-| **Werkzeug** | Spaten, Grabegabel | **Nur Handschaufel.** Ein Spatenstich in die Abdichtung kostet fünfstellig |
-| **Substrat** | Mutterboden abmagern | Mineralisches Dachgarten-Substrat, mager und **leicht** |
-| **Mulch** | Granitsplitt 8/16 | **Lava 8/16** — halbes Gewicht, gleiche Wirkung |
-| **Tiefwurzler** | Kugeldistel, Rutenhirse gut | **Raus** — Pfahlwurzeln finden keinen Platz |
-| **Frosthärte** | Boden puffert | Ballen friert durch → nur voll winterharte Arten |
-| **Gießen** | Ab Jahr 3 fast nie | **Dauerhaft 3–6× pro Sommer**, Wasseranschluss nötig |
-| **Düngen** | Nie | **Alle 2 Jahre schwach** — mineralisches Substrat läuft leer |
-| **Unkraut** | Quecke, Winde, Distel | Deutlich weniger! Nur Sämlinge von oben — der einzige Vorteil |
-| **Entwässerung** | Versickerung | Gullys/Notüberläufe **freihalten**, Substrat darf nicht einschlämmen |
+| Thema | Vorgabe für dieses Beet |
+|---|---|
+| **Genehmigung** | **Pflicht.** Schriftliche Freigabe von WEG/Hausverwaltung, vorher Deckenaufbau erfragen |
+| **Werkzeug** | **Nur Handschaufel.** Ein Spatenstich in die Abdichtung kostet fünfstellig |
+| **Substrat** | Mineralisches Dachgarten-Substrat, mager und **leicht** |
+| **Mulch** | **Lava 8/16** — halbes Gewicht von Granitsplitt, gleiche Wirkung |
+| **Wurzeltyp** | Nur flach- bis mittelwurzelnde Arten — Pfahlwurzeln finden keinen Platz |
+| **Frosthärte** | Der Ballen friert durch → nur voll winterharte Arten |
+| **Gießen** | **Dauerhaft 3–6× pro Sommer**, Wasseranschluss nötig |
+| **Düngen** | **Alle 2 Jahre schwach** — mineralisches Substrat läuft leer |
+| **Unkraut** | Nur Sämlinge von oben, keine Quecke/Winde/Distel aus dem Untergrund — der angenehme Nebeneffekt der Lage |
+| **Entwässerung** | Gullys/Notüberläufe **freihalten**, Substrat darf nicht einschlämmen |
 
 ---
 
@@ -96,7 +96,7 @@ Alle Arten sind flach- bis mittelwurzelnd, voll winterhart und auf Dachbegrünun
 |---|---|---|
 | Blauraute *Perovskia* / *Salvia yangii* `Blue Spire` | 8 | Klassiker der Dachbegrünung, extrem hitzefest, 1× Schnitt im Frühjahr. Braucht ≥ 30 cm |
 | Silber-Ährengras *Achnatherum calamagrostis* | 9 | Rückt aus der Mitte nach hinten: mit Blüte 80–100 cm, feinwurzelig, sehr langlebig |
-| Myrtenaster *Aster (Symphyotrichum) ericoides* `Erlkönig` | 5 | Ersetzt die Kugeldistel: kein Pfahlwurzler, blüht Sept./Okt. und schließt die Blühlücke im Herbst |
+| Myrtenaster *Aster (Symphyotrichum) ericoides* `Erlkönig` | 5 | Kein Pfahlwurzler, blüht Sept./Okt. und schließt die Blühlücke im Herbst |
 
 ### Reihe B – Mitte (Höhe 40–60 cm), 45 Stk
 
@@ -105,7 +105,7 @@ Alle Arten sind flach- bis mittelwurzelnd, voll winterhart und auf Dachbegrünun
 | Steppen-Salbei *Salvia nemorosa* `Caradonna` | 15 | Wie im Angebot, `Caradonna` ist standfester als `Ostfriesland` |
 | Hohe Fetthenne *Sedum telephium* `Matrona` / `Herbstfreude` | 12 | Aus dem Angebot — die beste Pflanze überhaupt für flachen Wurzelraum |
 | Schafgarbe *Achillea* `Terracotta` | 9 | Lange Blüte, im mageren Substrat sogar standfester als im Gartenboden |
-| Steinquendel *Calamintha nepeta* `Triumphator` | 9 | Neu: blüht Juli–Oktober durch, kippt nie um, Insektenmagnet, absolut trockenheitsfest |
+| Steinquendel *Calamintha nepeta* `Triumphator` | 9 | Blüht Juli–Oktober durch, kippt nie um, Insektenmagnet, absolut trockenheitsfest |
 
 ### Reihe C – vorne, zum Weg (Höhe 15–35 cm), 48 Stk
 
@@ -114,8 +114,8 @@ Alle Arten sind flach- bis mittelwurzelnd, voll winterhart und auf Dachbegrünun
 | Thymian *Thymus praecox* / *vulgaris* | 14 | Immergrün, duftet, im Lava-Mulch in seinem Element |
 | Katzenminze *Nepeta* `Walker's Low` | 12 | Deckt schnell, verdrängt Unkraut, blüht monatelang |
 | Herbst-Blaugras *Sesleria autumnalis* | 10 | Halbimmergrün, sehr langlebig, eines der besten Dachgräser |
-| Karthäusernelke *Dianthus carthusianorum* | 6 | Neu: Magerrasen-Pflanze, versamt sich moderat und schließt Lücken von selbst |
-| Blut-Storchschnabel *Geranium sanguineum* var. *striatum* | 6 | Dichter Teppich; reduziert, weil er von allen der durstigste ist |
+| Karthäusernelke *Dianthus carthusianorum* | 6 | Magerrasen-Pflanze, versamt sich moderat und schließt Lücken von selbst |
+| Blut-Storchschnabel *Geranium sanguineum* var. *striatum* | 6 | Dichter Teppich; bewusst nur eine kleine Gruppe, weil er von allen der durstigste ist |
 
 ### Grundriss (Draufsicht, Blockeinteilung)
 
@@ -169,11 +169,11 @@ Ist eine Tropfleitung geplant (siehe unten), wird sie **vor dem Mulchen** verleg
 
 ---
 
-## 6. Bewässerung — der Punkt, der sich durch die Tiefgarage am stärksten ändert
+## 6. Bewässerung — der kritischste Punkt im ganzen Plan
 
 30 cm mineralisches Substrat speichern rund **40–50 l/m² pflanzenverfügbares Wasser**. Ein besetztes Beet verdunstet im Hochsommer 3–5 l/m² pro Tag. Rechnung: **nach 10–14 Tagen ohne Regen ist der Speicher leer** — und darunter kommt nichts nach, weil es keine Anbindung an gewachsenen Boden gibt.
 
-Konsequenz gegenüber der ursprünglichen Planung:
+Daraus folgt der Gießrhythmus:
 
 - **Jahr 1:** 1–2× pro Woche durchdringend, ca. 20–25 l/m². Nicht verhandelbar.
 - **Jahr 2:** wöchentlich in Trockenphasen.
