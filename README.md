@@ -6,6 +6,14 @@ Ziel: **ein einziger Pflichtschnitt pro Jahr** und minimale Pflege. Gießfrei wi
 
 Wie das Beet am Ende aussehen soll, zeigt der maßstäbliche [Grundriss mit Blockeinteilung, Legende und Schichtaufbau](#grundriss-draufsicht-blockeinteilung) in Abschnitt 3.
 
+![Generierte Ansicht des geplanten Beets: Blauraute, Gräser und Astern in Blau-, Violett- und Silbertönen zwischen den Betonkanten](innenbeet-geplant.png)
+
+Generierte Zielansicht — als Stimmungsbild für die Nachbarschaft gedacht, nicht als Pflanzliste. Drei Einschränkungen dazu:
+
+- Gezeigt ist **Spätsommer/Herbst im 2.–3. Standjahr**. Im ersten Jahr stehen zwischen den Gruppen sichtbare Lücken mit blankem Mulch. Das ist beabsichtigt (siehe Pflanzdichte in [Abschnitt 3](#3-pflanzplan)), wirkt neben diesem Bild aber ernüchternd.
+- Der Mulch im Bild ist heller Rundkies. Vorgesehen ist **Lava 8/16**: dunkelrotbraun bis anthrazit und scharfkantig. Das Beet wirkt damit ruhiger, die Blütenfarben stehen kräftiger davor.
+- Die Arten stimmen nicht wörtlich: im Bild sind weiße Margeriten und Blauschwingel zu sehen, während Salvia `Caradonna`, Nepeta und Calamintha fehlen — die blühen zum abgebildeten Zeitpunkt schlicht nicht mehr.
+
 ---
 
 ## 0. Die Rahmenbedingungen — Kurzfassung
@@ -37,6 +45,8 @@ Diese vier Punkte entscheiden, ob der Plan so umsetzbar ist. Alle vier gehen üb
 | **Wo liegen Gullys, Kontrollschächte, Notüberläufe?** | Müssen dauerhaft zugänglich und frei bleiben | Vor Ort suchen + Plan |
 
 **Aufbauhöhe selbst prüfen — vorsichtig.** Kein Metallstab, kein Spaten. Ein stumpfer Holz- oder Kunststoffstab am Beetrand langsam eindrücken und beim ersten festen Widerstand **stoppen**. Das gibt einen Anhaltswert, ersetzt aber die Unterlagen nicht.
+
+**Die Hecke ist der beste kostenlose Indikator.** Eine Hainbuche in der Größe der Bestandshecke steht nicht auf 20 cm Aufbau. Das macht den ungünstigsten Fall unten unwahrscheinlich — **aber nur, wenn sie wirklich im selben Aufbau wurzelt** und nicht knapp außerhalb der Deckenkante steht. Genau das beim Verwaltungstermin gezielt fragen; die Unterlagen ersetzt die Beobachtung nicht.
 
 ### Was bei welcher Substrattiefe geht
 
@@ -77,6 +87,8 @@ Von unten nach oben (Schnittzeichnung siehe Grafik in [Abschnitt 3](#grundriss-d
 Zum Vergleich: mit Mutterboden und Granitsplitt-Mulch wären es 750–850 kg/m². **Die Materialwahl ist hier kein Detail, sondern der Unterschied zwischen genehmigungsfähig und nicht.**
 
 **Grundregel: die Oberkante nicht anheben.** Wer auf gleicher Höhe bleibt und nur das Material tauscht, ändert die Last kaum und hat es bei der Verwaltung deutlich leichter. Jede Aufhöhung vorher freigeben lassen.
+
+**Hier ist das leicht einzuhalten:** die Substratoberfläche liegt derzeit rund 15–20 cm unter der Betonoberkante (siehe [Bestandsfoto in Abschnitt 5](#5-pflanzzeitpunkt-und-ablauf)). Der in Schritt 2 beschriebene Austausch der oberen 10–15 cm passt also vollständig in den vorhandenen Raum — die Oberkante bleibt unverändert und die Last steigt nicht. Vor dem Verwaltungstermin nachmessen und die Zahl mitbringen; sie nimmt dem Gespräch den kritischsten Punkt.
 
 **Rand zur Entwässerung:** Substrat darf nicht in Gullys einschlämmen. Kiesstreifen (Breite 20–30 cm) oder Kontrollschacht-Aufsatz vor jedem Ablauf, Filtervlies dahinter.
 
@@ -155,6 +167,10 @@ Nur kleine Wildarten. **Keine großen Tulpen- oder Narzissenhybriden** — die b
 
 **Mitte September bis Anfang Oktober** — etwas früher als im Gartenboden. Über der Decke müssen die Pflanzen vor dem ersten Frost eingewurzelt sein, weil der Ballen im Winter komplett durchfriert. Nach Mitte Oktober lieber auf April/Mai verschieben und den ersten Sommer konsequent gießen.
 
+![Bestandsfoto des Innenhofbeets: vertrocknetes Reitgras und Wildkräuter zwischen den Betonkanten, rechts die Hainbuchenhecke mit braunem Laub im unteren Bereich](innenbeet-vorher.jpg)
+
+Ausgangslage. Drei Beobachtungen für den Pflanztag: der Bestand ist im Wesentlichen **ein Reitgras plus Sämlinge** und lässt sich nach Schritt 1 von Hand ziehen — kein Spaten nötig. Die Fläche liegt in **voller Sonne ohne jede Beschattung**, was das Steppenkonzept trägt. Und der **Trockenstress ist schon jetzt sichtbar**: verdorrte Halme, offene Substratstellen, dazu braunes Laub im unteren Drittel der Hainbuche rechts.
+
 Ablauf am Pflanztag (2 Nachbarn, ca. 5–7 h):
 
 1. Altbewuchs mit der Hand ziehen. **Kein Spaten, keine Grabegabel, keine Motorhacke.**
@@ -170,6 +186,8 @@ Ist eine Tropfleitung geplant (siehe unten), wird sie **vor dem Mulchen** verleg
 ---
 
 ## 6. Bewässerung — der kritischste Punkt im ganzen Plan
+
+Dass das kein theoretisches Risiko ist, zeigt das [Bestandsfoto](#5-pflanzzeitpunkt-und-ablauf): die Hainbuchenhecke steht auf derselben Decke und ist im unteren Drittel bereits braun. Der Wasserengpass ist im Hof also schon eingetreten — die Tropfleitung reagiert darauf, sie beugt nicht nur vor. Genau so gegenüber der Verwaltung argumentieren.
 
 30 cm mineralisches Substrat speichern rund **40–50 l/m² pflanzenverfügbares Wasser**. Ein besetztes Beet verdunstet im Hochsommer 3–5 l/m² pro Tag. Rechnung: **nach 10–14 Tagen ohne Regen ist der Speicher leer** — und darunter kommt nichts nach, weil es keine Anbindung an gewachsenen Boden gibt.
 
