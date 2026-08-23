@@ -2,7 +2,7 @@
 
 Konzept: **Steppen-/Präriebeet**, ausgelegt auf die Bedingungen einer Tiefgaragendecke: begrenzter Wurzelraum, keine Anbindung ans Grundwasser, Frost von allen Seiten, empfindliche Abdichtung darunter.
 
-Ziel: **ein einziger Pflichtschnitt pro Jahr** und minimale Pflege. Gießfrei wird das Beet allerdings nie — auch nicht nach Jahren. Siehe [Abschnitt 6](#6-bewässerung--der-kritischste-punkt-im-ganzen-plan).
+Ziel: **ein einziger Pflichtschnitt pro Jahr** und minimale Pflege. Gießfrei wird das Beet allerdings nie — auch nicht nach Jahren. Siehe [Abschnitt 7](#7-bewässerung--der-kritischste-punkt-im-ganzen-plan).
 
 Wie das Beet am Ende aussehen soll, zeigt der maßstäbliche [Grundriss mit Blockeinteilung, Legende und Schichtaufbau](#grundriss-draufsicht-blockeinteilung) in Abschnitt 3.
 
@@ -97,9 +97,9 @@ Zum Vergleich: mit Mutterboden und Granitsplitt-Mulch wären es 750–850 kg/m²
 
 **Grundregel: die Oberkante nicht anheben.** Wer auf gleicher Höhe bleibt und nur das Material tauscht, ändert die Last kaum und hat es bei der Verwaltung deutlich leichter. Jede Aufhöhung vorher freigeben lassen.
 
-**Hier ist das leicht einzuhalten:** die Substratoberfläche liegt derzeit rund 15–20 cm unter der Betonoberkante (siehe [Bestandsfoto in Abschnitt 5](#5-pflanzzeitpunkt-und-ablauf)). Selbst der in Schritt 2 beschriebene Austausch der oberen 10–15 cm würde vollständig in den vorhandenen Raum passen — die Oberkante bliebe unverändert und die Last stiege nicht. Diese Zahl vor dem Verwaltungstermin bestätigen und mitbringen; sie nimmt dem Gespräch den kritischsten Punkt.
+**Hier ist das leicht einzuhalten:** die Substratoberfläche liegt derzeit rund 15–20 cm unter der Betonoberkante (siehe [Bestandsfoto in Abschnitt 6](#6-pflanzzeitpunkt-und-ablauf)). Selbst der in Schritt 2 beschriebene Austausch der oberen 10–15 cm würde vollständig in den vorhandenen Raum passen — die Oberkante bliebe unverändert und die Last stiege nicht. Diese Zahl vor dem Verwaltungstermin bestätigen und mitbringen; sie nimmt dem Gespräch den kritischsten Punkt.
 
-**Austausch vermutlich gar nicht nötig.** Die [Nahaufnahme des Substrats](#1-vorab-klären--bevor-irgendetwas-gekauft-wird) zeigt eine helle, kantige Körnung (Splitt-/Lava-Anteil) in dunklerer Feinerde — das Erscheinungsbild eines mineralischen Dachgarten-Substrats, nicht von reiner Muttererde. Zusammen mit der gemessenen Tiefe von 38–40 cm spricht das dafür, dass Schritt 2 im Ablauf (Abschnitt 5) auf reines Lockern plus etwas Kompost beim Pflanzen reduziert werden kann, statt die oberen 10–15 cm komplett zu ersetzen. Das senkt sowohl die Last (kein zusätzliches Importmaterial) als auch die Kosten (Abschnitt 8). Eine Fingerprobe reicht meist: fühlt sich das Material krümelig-mineralisch an und zerfällt nicht zu Matsch, ist es geeignet. Bei Zweifel oder sichtbar hohem Grünanteil/Verdichtung hilft eine einfache Bodenprobe.
+**Austausch vermutlich gar nicht nötig.** Die [Nahaufnahme des Substrats](#1-vorab-klären--bevor-irgendetwas-gekauft-wird) zeigt eine helle, kantige Körnung (Splitt-/Lava-Anteil) in dunklerer Feinerde — das Erscheinungsbild eines mineralischen Dachgarten-Substrats, nicht von reiner Muttererde. Zusammen mit der gemessenen Tiefe von 38–40 cm spricht das dafür, dass Schritt 2 im Ablauf (Abschnitt 6) auf reines Lockern plus etwas Kompost beim Pflanzen reduziert werden kann, statt die oberen 10–15 cm komplett zu ersetzen. Das senkt sowohl die Last (kein zusätzliches Importmaterial) als auch die Kosten (Abschnitt 9). Eine Fingerprobe reicht meist: fühlt sich das Material krümelig-mineralisch an und zerfällt nicht zu Matsch, ist es geeignet. Bei Zweifel oder sichtbar hohem Grünanteil/Verdichtung hilft eine einfache Bodenprobe.
 
 **Rand zur Entwässerung:** Substrat darf nicht in Gullys einschlämmen. Kiesstreifen (Breite 20–30 cm) oder Kontrollschacht-Aufsatz vor jedem Ablauf, Filtervlies dahinter.
 
@@ -160,7 +160,39 @@ Nur kleine Wildarten. **Keine großen Tulpen- oder Narzissenhybriden** — die b
 
 ---
 
-## 4. Abweichungen vom Gärtner-Angebot
+## 4. Allergien und Geruch
+
+Keine der 115 Stauden gehört zu den klassischen starken Allergieauslösern (Ambrosia, Beifuß, Birke, Hasel, Erle, Rasengräser in Fläche). Zwei Punkte sind trotzdem erwähnenswert, falls im Hof jemand betroffen ist.
+
+### Pollenallergie
+
+| Pflanze | Familie | Einschätzung |
+|---|---|---|
+| Silber-Ährengras *Achnatherum calamagrostis* (Reihe A) | Süßgras (Poaceae) | Windbestäubt — Gräserpollen zählen zu den häufigsten Allergiequellen überhaupt. Als Horst gepflanzt deutlich weniger Pollen als eine Rasenfläche, blüht aber sichtbar (Mai/Juni). |
+| Herbst-Blaugras *Sesleria autumnalis* (Reihe C) | Süßgras (Poaceae) | Ebenfalls windbestäubt, blüht spät (Herbst) mit vergleichsweise wenig Pollen — grundsätzlich aber dieselbe Allergenfamilie. |
+
+Alle übrigen Arten (Salvia, Sedum, Thymus, Nepeta, Dianthus, Geranium, Allium, Tulipa, Crocus …) sind insektenbestäubt und tragen kaum zur Pollenbelastung in der Luft bei.
+
+### Kontaktallergie / Kreuzreaktion
+
+| Pflanze | Familie | Einschätzung |
+|---|---|---|
+| Schafgarbe *Achillea* `Terracotta` (Reihe B) | Korbblütler (Asteraceae) | Kontaktdermatitis bei Hautkontakt möglich, va. bei bekannter Beifuß-/Ambrosia-Kreuzallergie. Kein Pollenflugrisiko, da insektenbestäubt. |
+| Myrtenaster *Aster ericoides* `Erlkönig` (Reihe A) | Korbblütler (Asteraceae) | Gleiche Familie, gleiche Einschränkung — Risiko nur beim direkten Anfassen/Schneiden. |
+
+### Geruch
+
+Keine der Arten ist für Nachbarschaftsbeschwerden über Gestank typisch (anders als z. B. Buchsbaum). Auffällig sind die stark aromatischen Arten:
+
+- **Katzenminze** *Nepeta* `Walker's Low` (Reihe C, 12 Stk) — Duft selbst meist als angenehm empfunden, aber polarisierend. Wichtiger: **zieht Katzen an**, die sich darin wälzen — in einem Gemeinschaftshof eher ein Thema als der Geruch der Pflanze selbst.
+- **Steinquendel** *Calamintha nepeta* (Reihe B, 9 Stk) und **Thymian** *Thymus* (Reihe C, 14 Stk) — kräftig aromatisch (minzig/würzig), praktisch durchgehend als angenehm wahrgenommen.
+- **Blauraute** *Perovskia* und **Steppen-Salbei** *Salvia nemorosa* — aromatisches Laub, aber schwach und nur bei Berührung wahrnehmbar.
+
+**Fazit:** kein Grund, Arten aus dem Plan zu streichen. Bei bekannter schwerer Gräserpollenallergie im Hof lohnt es sich, das vorher anzusprechen; bei bestehenden Katzenkonflikten die Nepeta-Gruppe im Hinterkopf behalten.
+
+---
+
+## 5. Abweichungen vom Gärtner-Angebot
 
 | Angebot | Bewertung |
 |---|---|
@@ -174,7 +206,7 @@ Nur kleine Wildarten. **Keine großen Tulpen- oder Narzissenhybriden** — die b
 
 ---
 
-## 5. Pflanzzeitpunkt und Ablauf
+## 6. Pflanzzeitpunkt und Ablauf
 
 **Mitte September bis Anfang Oktober** — etwas früher als im Gartenboden. Über der Decke müssen die Pflanzen vor dem ersten Frost eingewurzelt sein, weil der Ballen im Winter komplett durchfriert. Nach Mitte Oktober lieber auf April/Mai verschieben und den ersten Sommer konsequent gießen.
 
@@ -196,9 +228,9 @@ Ist eine Tropfleitung geplant (siehe unten), wird sie **vor dem Mulchen** verleg
 
 ---
 
-## 6. Bewässerung — der kritischste Punkt im ganzen Plan
+## 7. Bewässerung — der kritischste Punkt im ganzen Plan
 
-Dass das kein theoretisches Risiko ist, zeigt das [Bestandsfoto](#5-pflanzzeitpunkt-und-ablauf): die Hainbuchenhecke steht auf derselben Decke und ist im unteren Drittel bereits braun. Der Wasserengpass ist im Hof also schon eingetreten — die Tropfleitung reagiert darauf, sie beugt nicht nur vor. Genau so gegenüber der Verwaltung argumentieren.
+Dass das kein theoretisches Risiko ist, zeigt das [Bestandsfoto](#6-pflanzzeitpunkt-und-ablauf): die Hainbuchenhecke steht auf derselben Decke und ist im unteren Drittel bereits braun. Der Wasserengpass ist im Hof also schon eingetreten — die Tropfleitung reagiert darauf, sie beugt nicht nur vor. Genau so gegenüber der Verwaltung argumentieren.
 
 30 cm mineralisches Substrat speichern rund **40–50 l/m² pflanzenverfügbares Wasser**. Ein besetztes Beet verdunstet im Hochsommer 3–5 l/m² pro Tag. Rechnung: **nach 10–14 Tagen ohne Regen ist der Speicher leer** — und darunter kommt nichts nach, weil es keine Anbindung an gewachsenen Boden gibt.
 
@@ -214,7 +246,7 @@ Wenn es keinen Wasseranschluss im Hof gibt: **das zuerst klären, vor der Pflanz
 
 ---
 
-## 7. Pflegekalender
+## 8. Pflegekalender
 
 | Zeitpunkt | Maßnahme | Aufwand |
 |---|---|---|
@@ -231,7 +263,7 @@ In den ersten beiden Jahren 25–30 Stunden.
 
 ---
 
-## 8. Kosten (Eigenregie, grob)
+## 9. Kosten (Eigenregie, grob)
 
 | Position | Betrag |
 |---|---|
@@ -246,7 +278,7 @@ In den ersten beiden Jahren 25–30 Stunden.
 
 ---
 
-## 9. Organisation in der Nachbarschaft
+## 10. Organisation in der Nachbarschaft
 
 - **Zuerst die Hausverwaltung, dann die Pflanzenliste.** Deckenaufbau, Traglastreserve, Alter der Abdichtung und schriftliche Freigabe holen. Ohne das keine Bestellung.
 - Beim Termin gleich mit abfragen: **Wer haftet, wenn beim Pflanzen etwas beschädigt wird?** In der Regel die Handelnden. Ein GaLaBau-Betrieb mit Dachbegrünungserfahrung bringt eine Betriebshaftpflicht mit — bei unklarer Abdichtungslage ist das die ruhigere Variante als die Nachbarschaftsaktion.
