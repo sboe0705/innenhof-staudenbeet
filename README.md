@@ -23,6 +23,7 @@ Generierte Zielansicht — als Stimmungsbild für die Nachbarschaft gedacht, nic
 | **Genehmigung** | **Pflicht.** Schriftliche Freigabe von WEG/Hausverwaltung, vorher Deckenaufbau erfragen |
 | **Werkzeug** | **Nur Handschaufel.** Ein Spatenstich in die Abdichtung kostet fünfstellig |
 | **Substrat** | Mineralisches Dachgarten-Substrat, mager und **leicht** |
+| **Substrattiefe** | **Gemessen: ca. 38–40 cm** bis zur Decke — Zielfall aus Abschnitt 1 trifft zu |
 | **Mulch** | **Lava 8/16** — halbes Gewicht von Granitsplitt, gleiche Wirkung |
 | **Wurzeltyp** | Nur flach- bis mittelwurzelnde Arten — Pfahlwurzeln finden keinen Platz |
 | **Frosthärte** | Der Ballen friert durch → nur voll winterharte Arten |
@@ -46,6 +47,12 @@ Diese vier Punkte entscheiden, ob der Plan so umsetzbar ist. Alle vier gehen üb
 
 **Aufbauhöhe selbst prüfen — vorsichtig.** Kein Metallstab, kein Spaten. Ein stumpfer Holz- oder Kunststoffstab am Beetrand langsam eindrücken und beim ersten festen Widerstand **stoppen**. Das gibt einen Anhaltswert, ersetzt aber die Unterlagen nicht.
 
+**Ergebnis der Messung:** ca. 40 cm, an einer Stelle 38 cm. Damit ist die Stichprobe erfolgt — die Unterlagen bei der Verwaltung ersetzt das trotzdem nicht, weil der Stab nur die oberste feste Schicht meldet und nichts über Abdichtung, Wurzelschutz oder Resttraglast aussagt.
+
+![Nahaufnahme des Substrats: mineralisches, grobkörniges Material mit hellen Splitt-/Lavaanteilen, dunklerer Feinerde, feinen Wurzeln und einem welken Blatt](innenbeet-substrat.jpg)
+
+Blick auf das vorhandene Substrat. Die helle, kantige Körnung zwischen der dunkleren Feinerde spricht für ein bereits mineralisches Dachgarten-Substrat (Splitt/Lava-Anteil) und nicht für reine Muttererde — siehe die Einordnung dazu in [Abschnitt 2](#2-schichtaufbau-und-gewicht).
+
 **Die Hecke ist der beste kostenlose Indikator.** Eine Hainbuche in der Größe der Bestandshecke steht nicht auf 20 cm Aufbau. Das macht den ungünstigsten Fall unten unwahrscheinlich — **aber nur, wenn sie wirklich im selben Aufbau wurzelt** und nicht knapp außerhalb der Deckenkante steht. Genau das beim Verwaltungstermin gezielt fragen; die Unterlagen ersetzt die Beobachtung nicht.
 
 ### Was bei welcher Substrattiefe geht
@@ -54,8 +61,10 @@ Diese vier Punkte entscheiden, ob der Plan so umsetzbar ist. Alle vier gehen üb
 |---|---|
 | **< 20 cm** | Staudenbeet nicht möglich. Nur extensive Sedum-Kräuter-Matte. Dieser Plan ist nicht anwendbar. |
 | **20–30 cm** | Eingeschränkt: **Reihe A entfällt** (Perovskia + Aster brauchen mehr). Reihen B und C über die ganze Fläche ziehen, Höhe max. 60 cm. Silber-Ährengras als höchstes Element. |
-| **30–40 cm** | **Zielfall dieses Plans.** Alles wie beschrieben umsetzbar. |
+| **30–40 cm** | **Zielfall dieses Plans — hier gemessen (38–40 cm).** Alles wie beschrieben umsetzbar. |
 | **> 40 cm** | Komfortabel. Optional *Calamagrostis* × *acutiflora* `Karl Foerster` (5 Stk) als vertikaler Akzent hinten. Gießbedarf sinkt spürbar. |
+
+**Damit ist der Zielfall bestätigt** — Reihe A mit Perovskia und Aster (Abschnitt 3) ist ohne Einschränkung umsetzbar. Weil an einer Stelle nur 38 cm gemessen wurden, wird konservativ mit dem Zielfall gerechnet, nicht mit dem Komfortfall. Wer beim Pflanzen an einzelnen Stellen sicher > 40 cm feststellt, kann dort optional 2–3 `Karl Foerster` ergänzen — pauschal für die ganze Reihe A aber nicht, solange nicht jede Stelle geprüft ist.
 
 **Kein Rindenmulch.** Nährt Unkraut, hält zu viel Feuchte — und schwemmt in die Entwässerung.
 
@@ -88,7 +97,9 @@ Zum Vergleich: mit Mutterboden und Granitsplitt-Mulch wären es 750–850 kg/m²
 
 **Grundregel: die Oberkante nicht anheben.** Wer auf gleicher Höhe bleibt und nur das Material tauscht, ändert die Last kaum und hat es bei der Verwaltung deutlich leichter. Jede Aufhöhung vorher freigeben lassen.
 
-**Hier ist das leicht einzuhalten:** die Substratoberfläche liegt derzeit rund 15–20 cm unter der Betonoberkante (siehe [Bestandsfoto in Abschnitt 5](#5-pflanzzeitpunkt-und-ablauf)). Der in Schritt 2 beschriebene Austausch der oberen 10–15 cm passt also vollständig in den vorhandenen Raum — die Oberkante bleibt unverändert und die Last steigt nicht. Vor dem Verwaltungstermin nachmessen und die Zahl mitbringen; sie nimmt dem Gespräch den kritischsten Punkt.
+**Hier ist das leicht einzuhalten:** die Substratoberfläche liegt derzeit rund 15–20 cm unter der Betonoberkante (siehe [Bestandsfoto in Abschnitt 5](#5-pflanzzeitpunkt-und-ablauf)). Selbst der in Schritt 2 beschriebene Austausch der oberen 10–15 cm würde vollständig in den vorhandenen Raum passen — die Oberkante bliebe unverändert und die Last stiege nicht. Diese Zahl vor dem Verwaltungstermin bestätigen und mitbringen; sie nimmt dem Gespräch den kritischsten Punkt.
+
+**Austausch vermutlich gar nicht nötig.** Die [Nahaufnahme des Substrats](#1-vorab-klären--bevor-irgendetwas-gekauft-wird) zeigt eine helle, kantige Körnung (Splitt-/Lava-Anteil) in dunklerer Feinerde — das Erscheinungsbild eines mineralischen Dachgarten-Substrats, nicht von reiner Muttererde. Zusammen mit der gemessenen Tiefe von 38–40 cm spricht das dafür, dass Schritt 2 im Ablauf (Abschnitt 5) auf reines Lockern plus etwas Kompost beim Pflanzen reduziert werden kann, statt die oberen 10–15 cm komplett zu ersetzen. Das senkt sowohl die Last (kein zusätzliches Importmaterial) als auch die Kosten (Abschnitt 8). Eine Fingerprobe reicht meist: fühlt sich das Material krümelig-mineralisch an und zerfällt nicht zu Matsch, ist es geeignet. Bei Zweifel oder sichtbar hohem Grünanteil/Verdichtung hilft eine einfache Bodenprobe.
 
 **Rand zur Entwässerung:** Substrat darf nicht in Gullys einschlämmen. Kiesstreifen (Breite 20–30 cm) oder Kontrollschacht-Aufsatz vor jedem Ablauf, Filtervlies dahinter.
 
@@ -174,7 +185,7 @@ Ausgangslage. Drei Beobachtungen für den Pflanztag: der Bestand ist im Wesentli
 Ablauf am Pflanztag (2 Nachbarn, ca. 5–7 h):
 
 1. Altbewuchs mit der Hand ziehen. **Kein Spaten, keine Grabegabel, keine Motorhacke.**
-2. Substrat oberflächlich mit dem Kultivator lockern, nicht umgraben. Bei zu fettem Altsubstrat obere 10–15 cm abtragen und durch Dachgarten-Substrat ersetzen.
+2. Substrat oberflächlich mit dem Kultivator lockern, nicht umgraben. Nach der [Substratprobe](#1-vorab-klären--bevor-irgendetwas-gekauft-wird) reicht das voraussichtlich aus, ggf. etwas Kompost einarbeiten. Nur bei zu fettem oder verdichtetem Altsubstrat obere 10–15 cm abtragen und durch Dachgarten-Substrat ersetzen.
 3. Lage der Gullys markieren (Bambusstab), damit sie beim Mulchen nicht verschwinden.
 4. Töpfe nach Plan auf der Fläche verteilen, erst dann pflanzen. Pflanzlöcher mit der Handschaufel.
 5. Zwiebeln dazwischen stecken (8–12 cm tief).
@@ -227,7 +238,7 @@ In den ersten beiden Jahren 25–30 Stunden.
 | Stauden, 115 Stk (Staudengärtnerei, Sammelbestellung) | 450–650 € |
 | Zwiebeln, 250 Stk | ~50 € |
 | Lava-Mulch 8/16, ca. 0,8 m³ | 120–200 € |
-| Dachgarten-Substrat (nur falls Austausch nötig, ca. 2 m³) | 250–400 € |
+| Dachgarten-Substrat (Kontingenz, nur falls Bodenprobe doch Austausch nötig macht — nach aktuellem Foto/Messung eher unwahrscheinlich, ca. 2 m³) | 250–400 € |
 | Tropfleitung + Zeitschaltuhr | 150–250 € |
 | **Summe ohne Substrataustausch** | **~800–1.150 €** |
 
