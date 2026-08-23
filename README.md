@@ -20,40 +20,44 @@ Generierte Zielansicht — als Stimmungsbild für die Nachbarschaft gedacht, nic
 
 | Thema | Vorgabe für dieses Beet |
 |---|---|
-| **Genehmigung** | **Pflicht.** Schriftliche Freigabe von WEG/Hausverwaltung, vorher Deckenaufbau erfragen |
+| **Genehmigung** | **Der einzige offene Punkt:** schriftliche Freigabe von WEG/Hausverwaltung |
 | **Werkzeug** | **Nur Handschaufel.** Ein Spatenstich in die Abdichtung kostet fünfstellig |
-| **Substrat** | Mineralisches Dachgarten-Substrat, mager und **leicht** |
+| **Substrat** | **Bestand bleibt.** Vorhandenes mineralisches Substrat wird nur gelockert, nicht ersetzt |
 | **Substrattiefe** | **Gemessen: ca. 38–40 cm** bis zur Decke — Zielfall aus Abschnitt 1 trifft zu |
+| **Abdichtung** | Wurzelschutzbahn vorhanden, **ca. 13 Jahre alt** — reichlich Restlebensdauer |
+| **Traglast** | **Beim Bau geprüft und ausreichend.** Ändert sich kaum, weil nichts ausgetauscht wird |
 | **Mulch** | **Lava 8/16** — halbes Gewicht von Granitsplitt, gleiche Wirkung |
 | **Wurzeltyp** | Nur flach- bis mittelwurzelnde Arten — Pfahlwurzeln finden keinen Platz |
 | **Frosthärte** | Der Ballen friert durch → nur voll winterharte Arten |
 | **Gießen** | **Dauerhaft 3–6× pro Sommer**, Wasseranschluss nötig |
 | **Düngen** | **Alle 2 Jahre schwach** — mineralisches Substrat läuft leer |
 | **Unkraut** | Nur Sämlinge von oben, keine Quecke/Winde/Distel aus dem Untergrund — der angenehme Nebeneffekt der Lage |
-| **Entwässerung** | Gullys/Notüberläufe **freihalten**, Substrat darf nicht einschlämmen |
+| **Entwässerung** | **Keine Gullys, Schächte oder Überläufe im Beet.** Nichts freizuhalten — einziges Warnsignal ist stehendes Wasser |
 
 ---
 
-## 1. Vorab klären — bevor irgendetwas gekauft wird
+## 1. Der Standort — geprüft und geklärt
 
-Diese vier Punkte entscheiden, ob der Plan so umsetzbar ist. Alle vier gehen über die Hausverwaltung.
+Die vier Punkte, die über die Umsetzbarkeit entscheiden, sind beantwortet.
 
-| Frage | Warum | Wo nachfragen |
-|---|---|---|
-| **Wie hoch ist der Aufbau über der Decke?** | Bestimmt, welche Pflanzen gehen (Tabelle unten) | Aufbauplan/Dachgutachten bei der Verwaltung; sonst vorsichtig sondieren |
-| **Wie alt ist die Abdichtung, ist eine Wurzelschutzbahn drin?** | Ohne FLL-geprüften Wurzelschutz keine Neupflanzung. Abdichtungen halten 30–40 Jahre | Verwaltung / Bauakte / letzte Dachsanierung |
-| **Wie viel Traglast hat die Decke noch frei?** | Aufbau + Wasser + Verkehr summiert sich (siehe Abschnitt 2) | Statiker oder Bestandsunterlagen |
-| **Wo liegen Gullys, Kontrollschächte, Notüberläufe?** | Müssen dauerhaft zugänglich und frei bleiben | Vor Ort suchen + Plan |
+| Frage | Stand |
+|---|---|
+| **Wie hoch ist der Aufbau über der Decke?** | **Gemessen: ca. 38–40 cm.** Das ist der Zielfall dieses Plans (Tabelle unten) |
+| **Ist eine Wurzelschutzbahn drin, wie alt ist sie?** | **Vorhanden und ca. 13 Jahre alt.** Bei 30–40 Jahren Lebensdauer bleibt reichlich Reserve |
+| **Reicht die Traglast?** | **Beim Bau geprüft und ausreichend** — und es wird kein Substrat ersetzt, das die Last verschieben würde (Abschnitt 2) |
+| **Wo liegen Gullys, Kontrollschächte, Notüberläufe?** | **Im Beet keiner.** Was das für die Entwässerung heißt, steht in [Abschnitt 2](#2-schichtaufbau-und-gewicht) |
 
-**Aufbauhöhe selbst prüfen — vorsichtig.** Kein Metallstab, kein Spaten. Ein stumpfer Holz- oder Kunststoffstab am Beetrand langsam eindrücken und beim ersten festen Widerstand **stoppen**. Das gibt einen Anhaltswert, ersetzt aber die Unterlagen nicht.
+**Offen bleibt genau ein Punkt: die schriftliche Freigabe** durch WEG/Hausverwaltung ([Abschnitt 10](#10-organisation-in-der-nachbarschaft)). Die ist keine Formalie, sondern regelt die Haftung — und mit den drei geklärten Zeilen oben ist das Gespräch ein kurzes.
 
-**Ergebnis der Messung:** ca. 40 cm, an einer Stelle 38 cm. Damit ist die Stichprobe erfolgt — die Unterlagen bei der Verwaltung ersetzt das trotzdem nicht, weil der Stab nur die oberste feste Schicht meldet und nichts über Abdichtung, Wurzelschutz oder Resttraglast aussagt.
+**So wurde die Aufbauhöhe gemessen:** kein Metallstab, kein Spaten — ein stumpfer Holzstab am Beetrand langsam eingedrückt und beim ersten festen Widerstand gestoppt. Ergebnis ca. 40 cm, an einer Stelle 38 cm. Ein Restvorbehalt bleibt: der Stab meldet die erste feste Schicht, und das kann auch die Dränschicht oder ein größerer Lavabrocken sein. Für die Pflanzenwahl reicht die Zahl trotzdem, weil sie im Zielbereich mit Puffer liegt.
+
+**Dass die Bahn 13 Jahre alt ist, sagt mehr als nur ihr Alter.** Ein Aufbau aus dieser Zeit wurde bereits nach den gängigen Dachbegrünungsregeln gebaut — also mit Schutzvlies, Dränschicht und Filtervlies unter dem Substrat. Der Schichtaufbau in [Abschnitt 2](#2-schichtaufbau-und-gewicht) beschreibt damit voraussichtlich nicht, was neu herzustellen ist, sondern was bereits liegt. Das deckt sich mit dem mineralischen Erscheinungsbild des Substrats.
 
 ![Nahaufnahme des Substrats: mineralisches, grobkörniges Material mit hellen Splitt-/Lavaanteilen, dunklerer Feinerde, feinen Wurzeln und einem welken Blatt](innenbeet-substrat.jpg)
 
 Blick auf das vorhandene Substrat. Die helle, kantige Körnung zwischen der dunkleren Feinerde spricht für ein bereits mineralisches Dachgarten-Substrat (Splitt/Lava-Anteil) und nicht für reine Muttererde — siehe die Einordnung dazu in [Abschnitt 2](#2-schichtaufbau-und-gewicht).
 
-**Die Hecke ist der beste kostenlose Indikator.** Eine Hainbuche in der Größe der Bestandshecke steht nicht auf 20 cm Aufbau. Das macht den ungünstigsten Fall unten unwahrscheinlich — **aber nur, wenn sie wirklich im selben Aufbau wurzelt** und nicht knapp außerhalb der Deckenkante steht. Genau das beim Verwaltungstermin gezielt fragen; die Unterlagen ersetzt die Beobachtung nicht.
+**Die Hecke bestätigt das Bild.** Eine Hainbuche in dieser Größe steht nicht auf 20 cm Aufbau. Als Beleg für die Tiefe wird sie nicht mehr gebraucht — interessant bleibt sie für den Wasserhaushalt: wurzelt sie im selben Aufbau, teilt sie sich den Speicher mit dem neuen Beet, und ihr brauner Fuß ist eine Vorschau auf das, was ohne Bewässerung passiert ([Abschnitt 7](#7-bewässerung--der-kritischste-punkt-im-ganzen-plan)).
 
 ### Was bei welcher Substrattiefe geht
 
@@ -66,7 +70,7 @@ Blick auf das vorhandene Substrat. Die helle, kantige Körnung zwischen der dunk
 
 **Damit ist der Zielfall bestätigt** — Reihe A mit Perovskia und Aster (Abschnitt 3) ist ohne Einschränkung umsetzbar. Weil an einer Stelle nur 38 cm gemessen wurden, wird konservativ mit dem Zielfall gerechnet, nicht mit dem Komfortfall. Wer beim Pflanzen an einzelnen Stellen sicher > 40 cm feststellt, kann dort optional 2–3 `Karl Foerster` ergänzen — pauschal für die ganze Reihe A aber nicht, solange nicht jede Stelle geprüft ist.
 
-**Kein Rindenmulch.** Nährt Unkraut, hält zu viel Feuchte — und schwemmt in die Entwässerung.
+**Kein Rindenmulch.** Nährt Unkraut, hält zu viel Feuchte — und schwimmt bei Starkregen auf, Richtung Hofabläufe.
 
 ---
 
@@ -75,7 +79,7 @@ Blick auf das vorhandene Substrat. Die helle, kantige Körnung zwischen der dunk
 Von unten nach oben (Schnittzeichnung siehe Grafik in [Abschnitt 3](#grundriss-draufsicht-blockeinteilung)):
 
 1. Stahlbetondecke
-2. Abdichtung + **Wurzelschutzbahn nach FLL** ← der kritische Punkt
+2. Abdichtung + **Wurzelschutzbahn** — vorhanden, ca. 13 Jahre alt
 3. Schutzvlies 300 g/m²
 4. Dränschicht 6–8 cm Lava/Bims 8/16 oder Dränmatte
 5. Filtervlies
@@ -95,13 +99,18 @@ Von unten nach oben (Schnittzeichnung siehe Grafik in [Abschnitt 3](#grundriss-d
 
 Zum Vergleich: mit Mutterboden und Granitsplitt-Mulch wären es 750–850 kg/m². **Die Materialwahl ist hier kein Detail, sondern der Unterschied zwischen genehmigungsfähig und nicht.**
 
-**Grundregel: die Oberkante nicht anheben.** Wer auf gleicher Höhe bleibt und nur das Material tauscht, ändert die Last kaum und hat es bei der Verwaltung deutlich leichter. Jede Aufhöhung vorher freigeben lassen.
+Diese Tabelle beschreibt allerdings den **Aufbau, der ohnehin schon liegt** — nicht neue Last. Die Traglast wurde beim Bau geprüft und ist ausreichend, und das Substrat wird nicht ersetzt. Tatsächlich hinzu kommen nur zwei Posten: die **5 cm Lava-Mulch mit rund 45 kg/m²** (≈ 0,6 t auf 14 m²) und der Aufwuchs der Pflanzen mit ~15 kg/m². Beides ist gegenüber der geprüften Reserve unkritisch, gehört beim Verwaltungstermin aber ehrlich genannt, statt „ändert sich nichts" zu behaupten.
 
-**Hier ist das leicht einzuhalten:** die Substratoberfläche liegt derzeit rund 15–20 cm unter der Betonoberkante (siehe [Bestandsfoto in Abschnitt 6](#6-pflanzzeitpunkt-und-ablauf)). Selbst der in Schritt 2 beschriebene Austausch der oberen 10–15 cm würde vollständig in den vorhandenen Raum passen — die Oberkante bliebe unverändert und die Last stiege nicht. Diese Zahl vor dem Verwaltungstermin bestätigen und mitbringen; sie nimmt dem Gespräch den kritischsten Punkt.
+**Grundregel: die Oberkante nicht anheben.** Wer auf gleicher Höhe bleibt, ändert die Last kaum und hat es bei der Verwaltung deutlich leichter. Jede Aufhöhung vorher freigeben lassen.
 
-**Austausch vermutlich gar nicht nötig.** Die [Nahaufnahme des Substrats](#1-vorab-klären--bevor-irgendetwas-gekauft-wird) zeigt eine helle, kantige Körnung (Splitt-/Lava-Anteil) in dunklerer Feinerde — das Erscheinungsbild eines mineralischen Dachgarten-Substrats, nicht von reiner Muttererde. Zusammen mit der gemessenen Tiefe von 38–40 cm spricht das dafür, dass Schritt 2 im Ablauf (Abschnitt 6) auf reines Lockern plus etwas Kompost beim Pflanzen reduziert werden kann, statt die oberen 10–15 cm komplett zu ersetzen. Das senkt sowohl die Last (kein zusätzliches Importmaterial) als auch die Kosten (Abschnitt 9). Eine Fingerprobe reicht meist: fühlt sich das Material krümelig-mineralisch an und zerfällt nicht zu Matsch, ist es geeignet. Bei Zweifel oder sichtbar hohem Grünanteil/Verdichtung hilft eine einfache Bodenprobe.
+**Hier ist das leicht einzuhalten:** die Substratoberfläche liegt derzeit rund 15–20 cm unter der Betonoberkante (siehe [Bestandsfoto in Abschnitt 6](#6-pflanzzeitpunkt-und-ablauf)). Die 5 cm Lava-Mulch verschwinden vollständig in diesem Raum — die Oberkante bleibt unverändert, und die Betonkante bleibt als Sitzkante nutzbar. Diese Zahl vor dem Verwaltungstermin bestätigen und mitbringen.
 
-**Rand zur Entwässerung:** Substrat darf nicht in Gullys einschlämmen. Kiesstreifen (Breite 20–30 cm) oder Kontrollschacht-Aufsatz vor jedem Ablauf, Filtervlies dahinter.
+**Kein Substrataustausch — entschieden.** Die [Nahaufnahme des Substrats](#1-der-standort--geprüft-und-geklärt) zeigt eine helle, kantige Körnung (Splitt-/Lava-Anteil) in dunklerer Feinerde: das Erscheinungsbild eines mineralischen Dachgarten-Substrats, nicht von reiner Muttererde. Zusammen mit der gemessenen Tiefe und dem Alter des Aufbaus reicht das als Grundlage für die Entscheidung, das vorhandene Material zu behalten. Schritt 2 im Ablauf ([Abschnitt 6](#6-pflanzzeitpunkt-und-ablauf)) beschränkt sich damit auf Lockern und etwas Kompost ins Pflanzloch. Das spart Last, Kosten und einen Container voll Aushub, für den es über der Decke ohnehin keinen guten Weg gibt.
+
+**Entwässerung ohne Gully im Beet.** Im Beet liegen weder Gully noch Kontrollschacht noch Notüberlauf. Das Wasser verlässt die Fläche also seitlich über die Dränschicht in Richtung der Abläufe im übrigen Hof. Zwei Konsequenzen:
+
+- **Es gibt nichts freizuhalten.** Kiesstreifen, Schachtaufsätze und die wiederkehrenden Kontrollgänge im Pflegekalender entfallen ersatzlos — bepflanzt und gemulcht wird die ganze Fläche.
+- **Das einzige Warnsignal ist stehendes Wasser.** Steht nach Starkregen länger als ungefähr eine Stunde Wasser auf dem Beet, ist die Dränschicht oder das Filtervlies zugesetzt. Das ist ein Fall für die Verwaltung, nicht fürs eigene Aufgraben. Bis dahin gilt: nichts an den Betonkanten aufschütten, was den seitlichen Abfluss zusätzlich bremst.
 
 ---
 
@@ -202,7 +211,7 @@ Keine der Arten ist für Nachbarschaftsbeschwerden über Gestank typisch (anders
 | Pflanzdichte ~6 Stk/m² | Zu locker → offene Substratflächen trocknen aus und veralgen. Auf 8 Stk/m² gehen. |
 | Mulch | Im Angebot **nicht enthalten** — und über der Tiefgarage doppelt wichtig (Verdunstungsschutz). Unbedingt ergänzen, als **Lava**, nicht als Granitsplitt. |
 | Kugeldistel / Rutenhirse (falls angeboten) | Bei < 40 cm Substrat streichen — Pfahl- bzw. Tiefwurzler. |
-| Substrat / Deckenaufbau | Im Angebot vermutlich gar nicht adressiert. **Vor Auftragsvergabe nachfragen**, wer für Abdichtung und Wurzelschutz die Verantwortung übernimmt. |
+| Substrat / Deckenaufbau | Substratlieferung ist nicht nötig — der Bestand bleibt. **Vor Auftragsvergabe trotzdem klären**, wer haftet, wenn die 13 Jahre alte Wurzelschutzbahn beim Pflanzen beschädigt wird. |
 
 ---
 
@@ -217,12 +226,11 @@ Ausgangslage. Drei Beobachtungen für den Pflanztag: der Bestand ist im Wesentli
 Ablauf am Pflanztag (2 Nachbarn, ca. 5–7 h):
 
 1. Altbewuchs mit der Hand ziehen. **Kein Spaten, keine Grabegabel, keine Motorhacke.**
-2. Substrat oberflächlich mit dem Kultivator lockern, nicht umgraben. Nach der [Substratprobe](#1-vorab-klären--bevor-irgendetwas-gekauft-wird) reicht das voraussichtlich aus, ggf. etwas Kompost einarbeiten. Nur bei zu fettem oder verdichtetem Altsubstrat obere 10–15 cm abtragen und durch Dachgarten-Substrat ersetzen.
-3. Lage der Gullys markieren (Bambusstab), damit sie beim Mulchen nicht verschwinden.
-4. Töpfe nach Plan auf der Fläche verteilen, erst dann pflanzen. Pflanzlöcher mit der Handschaufel.
-5. Zwiebeln dazwischen stecken (8–12 cm tief).
-6. Gründlich einschlämmen — über der Decke reichlich: ca. 30 l/m².
-7. Lava-Mulch aufbringen, Abläufe wieder freilegen.
+2. Substrat oberflächlich mit dem Kultivator lockern, nicht umgraben. **Kein Austausch** — das vorhandene Material bleibt ([Abschnitt 2](#2-schichtaufbau-und-gewicht)), etwas Kompost kommt beim Pflanzen direkt ins Loch.
+3. Töpfe nach Plan auf der Fläche verteilen, erst dann pflanzen. Pflanzlöcher mit der Handschaufel.
+4. Zwiebeln dazwischen stecken (8–12 cm tief).
+5. Gründlich einschlämmen — über der Decke reichlich: ca. 30 l/m², also rund 420 l auf die Fläche. In zwei Durchgängen mit Pause, damit nichts oben aufsteht.
+6. Lava-Mulch aufbringen, gleichmäßig 5 cm über die ganze Fläche.
 
 Ist eine Tropfleitung geplant (siehe unten), wird sie **vor dem Mulchen** verlegt.
 
@@ -252,11 +260,11 @@ Wenn es keinen Wasseranschluss im Hof gibt: **das zuerst klären, vor der Pflanz
 |---|---|---|
 | **Mitte – Ende März** | **Der einzige Pflichttermin:** alles bodennah zurückschneiden (Gräser 10 cm, Stauden 5 cm, Perovskia auf 15 cm ins alte Holz). Etwas später als im Gartenboden — die Halme schützen den durchfrierenden Ballen. Schnittgut abfahren. | 2 Pers. × 2 h |
 | **April** | Unkraut durchgehen, solange es klein ist. Mulch ergänzen. **Alle 2 Jahre** schwach düngen: 30–40 g/m² organischer Langzeitdünger. Mineralisches Substrat wird ausgewaschen — anders als im Gartenboden ist Nulldüngung hier auf Dauer zu wenig. Nicht mehr geben, sonst werden die Pflanzen weich. | 1,5 h |
-| **Mai / Juni** | 1× Unkrautkontrolle. In den ersten 2 Jahren alle 2–3 Wochen. Gullys auf Verstopfung prüfen. | 1 h |
+| **Mai / Juni** | 1× Unkrautkontrolle. In den ersten 2 Jahren alle 2–3 Wochen. | 1 h |
 | **Ende Juni (optional)** | Nepeta und Salvia nach der ersten Blüte um ⅓ einkürzen → zweite Blüte im August. Kann man auch weglassen. | 1 h |
 | **Juli / August** | **Wässern nach Regel oben** — nicht nach Gefühl. Faustregel: 2 Wochen ohne Regen = gießen, auch bei etabliertem Beet. | 2–4 h/Saison |
-| **September / Oktober** | Ausblühen lassen. Lücken nachpflanzen, Zwiebeln ergänzen. Laub aus den Abläufen holen. | 1 h |
-| **November – Januar** | **Alles stehen lassen.** Über der Decke doppelt wichtig: die Halme und die Mulchschicht sind die einzige Wärmedämmung, die der Wurzelballen hat. Nur Abläufe nach Laubfall einmal freiräumen. | 0,5 h |
+| **September / Oktober** | Ausblühen lassen. Lücken nachpflanzen, Zwiebeln ergänzen. | 1 h |
+| **November – Januar** | **Alles stehen lassen** — nichts zu tun. Über der Decke doppelt wichtig: die Halme und die Mulchschicht sind die einzige Wärmedämmung, die der Wurzelballen hat. Nach Starkregen einmal beiläufig auf stehendes Wasser achten ([Abschnitt 2](#2-schichtaufbau-und-gewicht)). | 0 h |
 
 **Realistischer Jahresaufwand ab Jahr 3: ca. 10–15 Stunden** — etwas mehr als im gewachsenen Boden, fast vollständig durch das Gießen. Ohne Tropfleitung eher 20 Stunden.
 In den ersten beiden Jahren 25–30 Stunden.
@@ -270,18 +278,19 @@ In den ersten beiden Jahren 25–30 Stunden.
 | Stauden, 115 Stk (Staudengärtnerei, Sammelbestellung) | 450–650 € |
 | Zwiebeln, 250 Stk | ~50 € |
 | Lava-Mulch 8/16, ca. 0,8 m³ | 120–200 € |
-| Dachgarten-Substrat (Kontingenz, nur falls Bodenprobe doch Austausch nötig macht — nach aktuellem Foto/Messung eher unwahrscheinlich, ca. 2 m³) | 250–400 € |
 | Tropfleitung + Zeitschaltuhr | 150–250 € |
-| **Summe ohne Substrataustausch** | **~800–1.150 €** |
+| **Summe** | **~770–1.150 €** |
 
-**Nicht eingerechnet:** Prüfung oder Erneuerung der Abdichtung. Falls die Wurzelschutzbahn fehlt oder die Abdichtung am Ende ihrer Lebensdauer ist, ist das ein Gemeinschaftsthema in ganz anderer Größenordnung — und dann ist das Beet der Anlass, nicht die Ursache.
+Ein Posten früherer Planungsstände ist ersatzlos entfallen: **Dachgarten-Substrat als Kontingenz (250–400 €)**. Es wird kein Substrat ersetzt.
+
+**Das große Kostenrisiko ist vom Tisch.** Die Wurzelschutzbahn ist vorhanden und mit ca. 13 Jahren weit von ihrer Lebensdauer entfernt — eine Abdichtungserneuerung als Gemeinschaftsthema in ganz anderer Größenordnung steht also nicht an. Was bleibt, ist das Restrisiko der **mechanischen Beschädigung beim Pflanzen**: eine Reparatur an dieser Stelle kostet fünfstellig, und genau dafür gibt es die Werkzeugregel.
 
 ---
 
 ## 10. Organisation in der Nachbarschaft
 
-- **Zuerst die Hausverwaltung, dann die Pflanzenliste.** Deckenaufbau, Traglastreserve, Alter der Abdichtung und schriftliche Freigabe holen. Ohne das keine Bestellung.
-- Beim Termin gleich mit abfragen: **Wer haftet, wenn beim Pflanzen etwas beschädigt wird?** In der Regel die Handelnden. Ein GaLaBau-Betrieb mit Dachbegrünungserfahrung bringt eine Betriebshaftpflicht mit — bei unklarer Abdichtungslage ist das die ruhigere Variante als die Nachbarschaftsaktion.
+- **Zuerst die Hausverwaltung, dann die Pflanzenliste.** Deckenaufbau, Traglast und Alter der Wurzelschutzbahn sind geklärt ([Abschnitt 1](#1-der-standort--geprüft-und-geklärt)) — offen ist nur die **schriftliche Freigabe**. Ohne die keine Bestellung.
+- Beim Termin gleich mit abfragen: **Wer haftet, wenn beim Pflanzen etwas beschädigt wird?** In der Regel die Handelnden. Ein GaLaBau-Betrieb mit Dachbegrünungserfahrung bringt eine Betriebshaftpflicht mit — das ist die ruhigere Variante als die Nachbarschaftsaktion, auch wenn die Abdichtungslage inzwischen bekannt ist.
 - **Werkzeugregel am Pflanztag laut ansagen:** keine Spaten, keine Grabegabeln, keine Erdbohrer. Alle bringen Handschaufeln mit.
 - Feste **Termine im Kalender**: 1× März (Rückschnitt), 1× April, 1× Juni.
 - **Gießpate benennen** — dauerhaft, nicht nur für den ersten Sommer. Mit Tropfleitung reduziert sich das auf „Zeitschaltuhr im Blick behalten".
