@@ -4,7 +4,7 @@ Konzept: **Steppen-/Präriebeet**, ausgelegt auf die Bedingungen einer Tiefgarag
 
 Ziel: **ein einziger Pflichtschnitt pro Jahr** und minimale Pflege. Gießfrei wird das Beet allerdings nie — auch nicht nach Jahren. Siehe [Abschnitt 7](#7-bewässerung--der-kritischste-punkt-im-ganzen-plan).
 
-Wie das Beet am Ende aussehen soll, zeigt der maßstäbliche [Grundriss mit Blockeinteilung, Legende und Schichtaufbau](#grundriss-draufsicht-blockeinteilung) in Abschnitt 3.
+Wie das Beet am Ende aussehen soll, zeigt der maßstäbliche [Grundriss mit Blockeinteilung, Legende und Schichtaufbau](#grundriss-draufsicht-blockeinteilung) in Abschnitt 3. Was konkret zu besorgen ist, steht in der **[Einkaufsliste](Einkaufsliste.md)**.
 
 ![Generierte Ansicht des geplanten Beets: Blauraute, Gräser und Astern in Blau-, Violett- und Silbertönen zwischen den Betonkanten](innenbeet-geplant.png)
 
@@ -269,7 +269,7 @@ Daraus folgt der Gießrhythmus:
 - **Jahr 2:** wöchentlich in Trockenphasen.
 - **Ab Jahr 3 (etabliert):** realistisch **3–6 Wassergaben pro Sommer**, je 20–25 l/m², jeweils nach ca. 2 Wochen ohne nennenswerten Regen. Das sind pro Gang ca. 300 l für die 14 m².
 
-**300 l mit der Gießkanne sind 30 Gänge.** Deshalb die klare Empfehlung: **Tropfrohr unter dem Mulch verlegen** — ca. 35 lfm bei 30 cm Reihenabstand, angeschlossen an den Außenhahn, mit einfacher Zeitschaltuhr. Kosten ca. 150–250 €. Das ist über einer Tiefgarage keine Bequemlichkeit, sondern der Faktor, an dem solche Beete typischerweise scheitern.
+**300 l mit der Gießkanne sind 30 Gänge.** Deshalb die klare Empfehlung: **Tropfrohr unter dem Mulch verlegen** — ca. 42 lfm (6 Leitungen à 7,00 m bei 30 cm Reihenabstand über die 2,00 m Beettiefe), angeschlossen an den Außenhahn, mit einfacher Zeitschaltuhr. Kosten mit Druckminderer, Filter und Kleinteilen ca. 125–245 €, aufgeschlüsselt in der [Einkaufsliste](Einkaufsliste.md#d-bewässerung). Das ist über einer Tiefgarage keine Bequemlichkeit, sondern der Faktor, an dem solche Beete typischerweise scheitern.
 
 Wenn es keinen Wasseranschluss im Hof gibt: **das zuerst klären, vor der Pflanzenbestellung.**
 
@@ -296,11 +296,14 @@ In den ersten beiden Jahren 25–30 Stunden.
 
 | Position | Betrag |
 |---|---|
-| Stauden, 113 Stk (Staudengärtnerei, Sammelbestellung) | 450–650 € |
-| Zwiebeln, 250 Stk | ~50 € |
+| Stauden, 113 Stk (Staudengärtnerei, Sammelbestellung) | 410–580 € |
+| Zwiebeln, 250 Stk | 35–50 € |
 | Lava-Mulch 8/16, ca. 0,8 m³ | 120–200 € |
-| Tropfleitung + Zeitschaltuhr | 150–250 € |
-| **Summe** | **~770–1.150 €** |
+| Tropfleitung, Zeitschaltuhr + Kleinteile | 125–245 € |
+| Kompost + Dünger | 20–35 € |
+| **Summe** | **~710–1.110 €** |
+
+Positionsgenaue Mengen, Topfgrößen und Bestellreihenfolge stehen in der **[Einkaufsliste](Einkaufsliste.md)**.
 
 Ein Posten früherer Planungsstände ist ersatzlos entfallen: **Dachgarten-Substrat als Kontingenz (250–400 €)**. Es wird kein Substrat ersetzt.
 
