@@ -118,36 +118,57 @@ Diese Tabelle beschreibt allerdings den **Aufbau, der ohnehin schon liegt** — 
 
 Zugang von der Wegseite, hinten die Hecke → **hoch nach hinten, flach nach vorne** (die Betonkante bleibt als Sitzkante nutzbar).
 
-Gesamt ca. **115 Stauden ≈ 8 Stk/m²** — bewusst dichter als im Gartenboden. Dichte Pflanzung beschattet das Substrat, bremst die Austrocknung und schließt die Fläche schneller. In Gruppen von 3–7 Stück pflanzen.
+Gesamt **113 Stauden = 8,1 Stk/m²** — bewusst dichter als im Gartenboden. Dichte Pflanzung beschattet das Substrat, bremst die Austrocknung und schließt die Fläche schneller. In Gruppen von 3–7 Stück pflanzen.
 
 Alle Arten sind flach- bis mittelwurzelnd, voll winterhart und auf Dachbegrünungen erprobt.
 
-### Reihe A – hinten, an der Hecke (Höhe 80–110 cm), 22 Stk
+### Flächenprobe: passen Stückzahl und Beetgröße zusammen?
+
+Gegenprobe der Stückzahlen gegen die tatsächliche Fläche. Grundlage sind die Reihentiefen aus dem [Grundriss](#grundriss-draufsicht-blockeinteilung) (0,65 / 0,70 / 0,65 m bei 7,00 m Länge) und die Pflanzabstände dieses Plans.
+
+| Reihe | Tiefe | Fläche | Abstand | Passt rechnerisch | Geplant | Dichte |
+|---|---|---|---|---|---|---|
+| A – hinten | 0,65 m | 4,55 m² | 55–65 cm | 11–15 Stk | **15** | 3,3 Stk/m² |
+| B – Mitte | 0,70 m | 4,90 m² | 35 cm | 40 Stk | **40** | 8,2 Stk/m² |
+| C – vorne | 0,65 m | 4,55 m² | 28 cm | 58 Stk | **58** | 12,7 Stk/m² |
+| **Summe** | **2,00 m** | **14,00 m²** | | **109–113 Stk** | **113** | **8,1 Stk/m²** |
+
+Rechenweg je Reihe: Fläche ÷ Abstand² = Stückzahl. Beispiel Reihe B: 4,90 m² ÷ (0,35 m)² = 40.
+
+**Ergebnis: die Gesamtzahl passte immer, die Verteilung auf die Reihen nicht.** Ein früherer Planungsstand nannte 115 Stauden in der Aufteilung 22 / 45 / 48. Das sind 8,2 Stk/m² über alles — also plausibel, solange man nur die Summe ansieht. Reihenweise gerechnet:
+
+- **Reihe A war um knapp 50 % überbelegt:** 22 Stück statt der 15, die selbst beim dichtesten Abstand des Plans (55 cm) auf 4,55 m² gehen. 22 Pflanzen ergeben 45 cm Abstand — bei Perovskia und Achnatherum, die 55–65 cm brauchen und 60–90 cm breit werden. Über der Decke ist das nicht nur eine Frage der Optik: alle 22 ziehen aus demselben 40–50 l/m²-Speicher, der laut [Abschnitt 7](#7-bewässerung--der-kritischste-punkt-im-ganzen-plan) ohnehin der Engpass des ganzen Plans ist.
+- **Reihe C war um 17 % unterbelegt:** 48 statt 58 Stück, also 31 cm statt der geplanten 28 cm — ausgerechnet vorne, wo das Substrat in voller Sonne liegt und am schnellsten austrocknet. Genau die Zone, für die die dichte Pflanzung erfunden wurde.
+- **Reihe B lag mit 45 statt 40 leicht darüber** (33 cm statt 35 cm). Für sich genommen unkritisch, geht aber in dieselbe Richtung wie A.
+
+Die Tabellen unten sind entsprechend korrigiert: **A 22 → 15, B 45 → 40, C 48 → 58.** Unterm Strich 113 statt 115 Stauden — an der Summe und am Gesamteindruck ändert sich damit fast nichts, die Pflanzen stehen aber dort, wo Platz für sie ist. Nebeneffekt fürs Budget: die sieben gestrichenen Pflanzen in Reihe A sind die teuersten im Beet, die zehn zusätzlichen in Reihe C die günstigsten.
+
+### Reihe A – hinten, an der Hecke (Höhe 80–110 cm), 15 Stk
 
 | Pflanze | Stk | Warum | Wikipedia |
 |---|---|---|---|
-| Blauraute *Perovskia* / *Salvia yangii* `Blue Spire` | 8 | Klassiker der Dachbegrünung, extrem hitzefest, 1× Schnitt im Frühjahr. Braucht ≥ 30 cm | [Silber-Perowskie](https://de.wikipedia.org/wiki/Silber-Perowskie) |
-| Silber-Ährengras *Achnatherum calamagrostis* | 9 | Rückt aus der Mitte nach hinten: mit Blüte 80–100 cm, feinwurzelig, sehr langlebig | [Silber-Raugras](https://de.wikipedia.org/wiki/Silber-Raugras) |
-| Myrtenaster *Aster (Symphyotrichum) ericoides* `Erlkönig` | 5 | Kein Pfahlwurzler, blüht Sept./Okt. und schließt die Blühlücke im Herbst | [Myrten-Aster](https://de.wikipedia.org/wiki/Myrten-Aster) |
+| Blauraute *Perovskia* / *Salvia yangii* `Blue Spire` | 5 | Klassiker der Dachbegrünung, extrem hitzefest, 1× Schnitt im Frühjahr. Braucht ≥ 30 cm | [Silber-Perowskie](https://de.wikipedia.org/wiki/Silber-Perowskie) |
+| Silber-Ährengras *Achnatherum calamagrostis* | 6 | Rückt aus der Mitte nach hinten: mit Blüte 80–100 cm, feinwurzelig, sehr langlebig | [Silber-Raugras](https://de.wikipedia.org/wiki/Silber-Raugras) |
+| Myrtenaster *Aster (Symphyotrichum) ericoides* `Erlkönig` | 4 | Kein Pfahlwurzler, blüht Sept./Okt. und schließt die Blühlücke im Herbst | [Myrten-Aster](https://de.wikipedia.org/wiki/Myrten-Aster) |
 
-### Reihe B – Mitte (Höhe 40–60 cm), 45 Stk
-
-| Pflanze | Stk | Warum | Wikipedia |
-|---|---|---|---|
-| Steppen-Salbei *Salvia nemorosa* `Caradonna` | 15 | Wie im Angebot, `Caradonna` ist standfester als `Ostfriesland` | [Hain-Salbei](https://de.wikipedia.org/wiki/Hain-Salbei) |
-| Hohe Fetthenne *Sedum telephium* `Matrona` / `Herbstfreude` | 12 | Aus dem Angebot — die beste Pflanze überhaupt für flachen Wurzelraum | [Große Fetthenne](https://de.wikipedia.org/wiki/Gro%C3%9Fe_Fetthenne) |
-| Schafgarbe *Achillea* `Terracotta` | 9 | Lange Blüte, im mageren Substrat sogar standfester als im Gartenboden | [Schafgarben](https://de.wikipedia.org/wiki/Schafgarben) (Gattung) |
-| Steinquendel *Calamintha nepeta* `Triumphator` | 9 | Blüht Juli–Oktober durch, kippt nie um, Insektenmagnet, absolut trockenheitsfest | [Kleinblütige Bergminze](https://de.wikipedia.org/wiki/Kleinbl%C3%BCtige_Bergminze) |
-
-### Reihe C – vorne, zum Weg (Höhe 15–35 cm), 48 Stk
+### Reihe B – Mitte (Höhe 40–60 cm), 40 Stk
 
 | Pflanze | Stk | Warum | Wikipedia |
 |---|---|---|---|
-| Thymian *Thymus praecox* / *vulgaris* | 14 | Immergrün, duftet, im Lava-Mulch in seinem Element | [Frühblühender Thymian](https://de.wikipedia.org/wiki/Fr%C3%BChbl%C3%BChender_Thymian) · [Echter Thymian](https://de.wikipedia.org/wiki/Echter_Thymian) |
+| Steppen-Salbei *Salvia nemorosa* `Caradonna` | 13 | Wie im Angebot, `Caradonna` ist standfester als `Ostfriesland` | [Hain-Salbei](https://de.wikipedia.org/wiki/Hain-Salbei) |
+| Hohe Fetthenne *Sedum telephium* `Matrona` / `Herbstfreude` | 11 | Aus dem Angebot — die beste Pflanze überhaupt für flachen Wurzelraum | [Große Fetthenne](https://de.wikipedia.org/wiki/Gro%C3%9Fe_Fetthenne) |
+| Schafgarbe *Achillea* `Terracotta` | 8 | Lange Blüte, im mageren Substrat sogar standfester als im Gartenboden | [Schafgarben](https://de.wikipedia.org/wiki/Schafgarben) (Gattung) |
+| Steinquendel *Calamintha nepeta* `Triumphator` | 8 | Blüht Juli–Oktober durch, kippt nie um, Insektenmagnet, absolut trockenheitsfest | [Kleinblütige Bergminze](https://de.wikipedia.org/wiki/Kleinbl%C3%BCtige_Bergminze) |
+
+### Reihe C – vorne, zum Weg (Höhe 15–35 cm), 58 Stk
+
+| Pflanze | Stk | Warum | Wikipedia |
+|---|---|---|---|
+| Thymian *Thymus praecox* / *vulgaris* | 18 | Immergrün, duftet, im Lava-Mulch in seinem Element | [Frühblühender Thymian](https://de.wikipedia.org/wiki/Fr%C3%BChbl%C3%BChender_Thymian) · [Echter Thymian](https://de.wikipedia.org/wiki/Echter_Thymian) |
 | Katzenminze *Nepeta* `Walker's Low` | 12 | Deckt schnell, verdrängt Unkraut, blüht monatelang | [Hybrid-Katzenminze](https://de.wikipedia.org/wiki/Hybrid-Katzenminze) |
-| Herbst-Blaugras *Sesleria autumnalis* | 10 | Halbimmergrün, sehr langlebig, eines der besten Dachgräser | [Sesleria autumnalis](https://en.wikipedia.org/wiki/Sesleria_autumnalis) (en) |
-| Karthäusernelke *Dianthus carthusianorum* | 6 | Magerrasen-Pflanze, versamt sich moderat und schließt Lücken von selbst | [Karthäusernelke](https://de.wikipedia.org/wiki/Karth%C3%A4usernelke) |
-| Blut-Storchschnabel *Geranium sanguineum* var. *striatum* | 6 | Dichter Teppich; bewusst nur eine kleine Gruppe, weil er von allen der durstigste ist | [Blutroter Storchschnabel](https://de.wikipedia.org/wiki/Blutroter_Storchschnabel) |
+| Herbst-Blaugras *Sesleria autumnalis* | 12 | Halbimmergrün, sehr langlebig, eines der besten Dachgräser | [Sesleria autumnalis](https://en.wikipedia.org/wiki/Sesleria_autumnalis) (en) |
+| Karthäusernelke *Dianthus carthusianorum* | 9 | Magerrasen-Pflanze, versamt sich moderat und schließt Lücken von selbst | [Karthäusernelke](https://de.wikipedia.org/wiki/Karth%C3%A4usernelke) |
+| Blut-Storchschnabel *Geranium sanguineum* var. *striatum* | 7 | Dichter Teppich; bewusst nur eine kleine Gruppe, weil er von allen der durstigste ist | [Blutroter Storchschnabel](https://de.wikipedia.org/wiki/Blutroter_Storchschnabel) |
 
 ### Grundriss (Draufsicht, Blockeinteilung)
 
@@ -155,7 +176,7 @@ Alle Arten sind flach- bis mittelwurzelnd, voll winterhart und auf Dachbegrünun
 
 Maßstäbliche Grafik, Meterangaben von links; Buchstabe = Art, Zahl = Stückzahl im Block (Legende in der Grafik).
 
-Pflanzabstände: hinten ca. 55–65 cm, Mitte 35 cm, vorne 28 cm. Die Blockgrenzen sind Richtwerte — an den Rändern die Gruppen leicht ineinander laufen lassen, das wirkt natürlicher als scharfe Kanten.
+Pflanzabstände: hinten ca. 55 cm (3,3 Stk/m²), Mitte 35 cm (8,2 Stk/m²), vorne 28 cm (12,7 Stk/m²) — hergeleitet in der [Flächenprobe](#flächenprobe-passen-stückzahl-und-beetgröße-zusammen). Die Blockgrenzen sind Richtwerte — an den Rändern die Gruppen leicht ineinander laufen lassen, das wirkt natürlicher als scharfe Kanten.
 
 **Die trockenste Zone ist der Heckenstreifen.** Dort keine Neupflanzung dicht an die Hainbuche setzen und beim Pflanzen deren Wurzeln nicht durchtrennen — sie steht auf derselben Decke und hat keinen Ausweichraum.
 
@@ -171,7 +192,7 @@ Nur kleine Wildarten. **Keine großen Tulpen- oder Narzissenhybriden** — die b
 
 ## 4. Allergien und Geruch
 
-Keine der 115 Stauden gehört zu den klassischen starken Allergieauslösern (Ambrosia, Beifuß, Birke, Hasel, Erle, Rasengräser in Fläche). Zwei Punkte sind trotzdem erwähnenswert, falls im Hof jemand betroffen ist.
+Keine der 113 Stauden gehört zu den klassischen starken Allergieauslösern (Ambrosia, Beifuß, Birke, Hasel, Erle, Rasengräser in Fläche). Zwei Punkte sind trotzdem erwähnenswert, falls im Hof jemand betroffen ist.
 
 ### Pollenallergie
 
@@ -194,7 +215,7 @@ Alle übrigen Arten (Salvia, Sedum, Thymus, Nepeta, Dianthus, Geranium, Allium, 
 Keine der Arten ist für Nachbarschaftsbeschwerden über Gestank typisch (anders als z. B. Buchsbaum). Auffällig sind die stark aromatischen Arten:
 
 - **Katzenminze** *Nepeta* `Walker's Low` (Reihe C, 12 Stk) — Duft selbst meist als angenehm empfunden, aber polarisierend. Wichtiger: **zieht Katzen an**, die sich darin wälzen — in einem Gemeinschaftshof eher ein Thema als der Geruch der Pflanze selbst.
-- **Steinquendel** *Calamintha nepeta* (Reihe B, 9 Stk) und **Thymian** *Thymus* (Reihe C, 14 Stk) — kräftig aromatisch (minzig/würzig), praktisch durchgehend als angenehm wahrgenommen.
+- **Steinquendel** *Calamintha nepeta* (Reihe B, 8 Stk) und **Thymian** *Thymus* (Reihe C, 18 Stk) — kräftig aromatisch (minzig/würzig), praktisch durchgehend als angenehm wahrgenommen.
 - **Blauraute** *Perovskia* und **Steppen-Salbei** *Salvia nemorosa* — aromatisches Laub, aber schwach und nur bei Berührung wahrnehmbar.
 
 **Fazit:** kein Grund, Arten aus dem Plan zu streichen. Bei bekannter schwerer Gräserpollenallergie im Hof lohnt es sich, das vorher anzusprechen; bei bestehenden Katzenkonflikten die Nepeta-Gruppe im Hinterkopf behalten.
@@ -275,7 +296,7 @@ In den ersten beiden Jahren 25–30 Stunden.
 
 | Position | Betrag |
 |---|---|
-| Stauden, 115 Stk (Staudengärtnerei, Sammelbestellung) | 450–650 € |
+| Stauden, 113 Stk (Staudengärtnerei, Sammelbestellung) | 450–650 € |
 | Zwiebeln, 250 Stk | ~50 € |
 | Lava-Mulch 8/16, ca. 0,8 m³ | 120–200 € |
 | Tropfleitung + Zeitschaltuhr | 150–250 € |

@@ -2,7 +2,7 @@
   <rect x="0" y="0" width="880" height="950" fill="#fbfaf7"/>
 
   <text x="55" y="34" font-size="20" font-weight="bold" fill="#2c2c2c">Innenhof-Beet über Tiefgarage – Grundriss (Draufsicht), 7,00 × 2,00 m</text>
-  <text x="55" y="55" font-size="13" fill="#666">Maßstab 1 : 100 · ca. 115 Stauden (8 Stk/m²) · nur flachwurzelnde, frostharte Arten · Buchstabe = Art, Zahl = Stückzahl im Block</text>
+  <text x="55" y="55" font-size="13" fill="#666">Maßstab 1 : 100 · 113 Stauden (8,1 Stk/m²) · nur flachwurzelnde, frostharte Arten · Buchstabe = Art, Zahl = Stückzahl im Block</text>
 
   <rect x="55" y="66" width="770" height="18" fill="#7fa06a"/>
   <text x="440" y="79" font-size="11" fill="#ffffff" text-anchor="middle" font-weight="bold">HECKE (Hainbuche) – steht ebenfalls auf der Decke · 40 cm Abstand · Wurzelraum nicht anschneiden</text>
@@ -12,61 +12,63 @@
   <!-- REIHE A – hinten -->
   <g stroke="#ffffff" stroke-width="1.5">
     <rect x="55"  y="90" width="154" height="71.5" fill="#d8dcb0"/>
-    <rect x="209" y="90" width="176" height="71.5" fill="#b9c9e8"/>
-    <rect x="385" y="90" width="154" height="71.5" fill="#ddd6ea"/>
-    <rect x="539" y="90" width="165" height="71.5" fill="#d8dcb0"/>
-    <rect x="704" y="90" width="121" height="71.5" fill="#b9c9e8"/>
+    <rect x="209" y="90" width="257" height="71.5" fill="#b9c9e8"/>
+    <rect x="466" y="90" width="205" height="71.5" fill="#ddd6ea"/>
+    <rect x="671" y="90" width="154" height="71.5" fill="#d8dcb0"/>
   </g>
   <g fill="#1c1c1c" text-anchor="middle">
-    <text x="132" y="134" font-size="26" font-weight="bold">E<tspan font-size="17" font-weight="normal"> ×4</tspan></text>
-    <text x="297" y="134" font-size="26" font-weight="bold">P<tspan font-size="17" font-weight="normal"> ×5</tspan></text>
-    <text x="462" y="134" font-size="26" font-weight="bold">M<tspan font-size="17" font-weight="normal"> ×5</tspan></text>
-    <text x="621" y="134" font-size="26" font-weight="bold">E<tspan font-size="17" font-weight="normal"> ×5</tspan></text>
-    <text x="764" y="134" font-size="26" font-weight="bold">P<tspan font-size="17" font-weight="normal"> ×3</tspan></text>
+    <text x="132" y="134" font-size="26" font-weight="bold">E<tspan font-size="17" font-weight="normal"> ×3</tspan></text>
+    <text x="338" y="134" font-size="26" font-weight="bold">P<tspan font-size="17" font-weight="normal"> ×5</tspan></text>
+    <text x="569" y="134" font-size="26" font-weight="bold">M<tspan font-size="17" font-weight="normal"> ×4</tspan></text>
+    <text x="748" y="134" font-size="26" font-weight="bold">E<tspan font-size="17" font-weight="normal"> ×3</tspan></text>
   </g>
 
   <!-- REIHE B – Mitte -->
   <g stroke="#ffffff" stroke-width="1.5">
-    <rect x="55"  y="161.5" width="132" height="77" fill="#b49ad6"/>
-    <rect x="187" y="161.5" width="110" height="77" fill="#f0b0a4"/>
-    <rect x="297" y="161.5" width="88"  height="77" fill="#cfe4e0"/>
-    <rect x="385" y="161.5" width="143" height="77" fill="#f2cf8a"/>
-    <rect x="528" y="161.5" width="121" height="77" fill="#b49ad6"/>
-    <rect x="649" y="161.5" width="110" height="77" fill="#f0b0a4"/>
-    <rect x="759" y="161.5" width="66"  height="77" fill="#cfe4e0"/>
+    <rect x="55"  y="161.5" width="135" height="77" fill="#b49ad6"/>
+    <rect x="190" y="161.5" width="116" height="77" fill="#f0b0a4"/>
+    <rect x="306" y="161.5" width="77"  height="77" fill="#cfe4e0"/>
+    <rect x="383" y="161.5" width="96"  height="77" fill="#f2cf8a"/>
+    <rect x="479" y="161.5" width="115" height="77" fill="#b49ad6"/>
+    <rect x="594" y="161.5" width="58"  height="77" fill="#f2cf8a"/>
+    <rect x="652" y="161.5" width="96"  height="77" fill="#f0b0a4"/>
+    <rect x="748" y="161.5" width="77"  height="77" fill="#cfe4e0"/>
   </g>
   <g fill="#1c1c1c" text-anchor="middle">
-    <text x="121" y="209" font-size="26" font-weight="bold">S<tspan font-size="17" font-weight="normal"> ×8</tspan></text>
-    <text x="242" y="209" font-size="26" font-weight="bold">F<tspan font-size="17" font-weight="normal"> ×6</tspan></text>
-    <text x="341" y="209" font-size="26" font-weight="bold">C<tspan font-size="17" font-weight="normal"> ×5</tspan></text>
-    <text x="456" y="209" font-size="26" font-weight="bold">A<tspan font-size="17" font-weight="normal"> ×9</tspan></text>
-    <text x="588" y="209" font-size="26" font-weight="bold">S<tspan font-size="17" font-weight="normal"> ×7</tspan></text>
-    <text x="704" y="209" font-size="26" font-weight="bold">F<tspan font-size="17" font-weight="normal"> ×6</tspan></text>
-    <text x="792" y="209" font-size="24" font-weight="bold">C<tspan font-size="15" font-weight="normal"> ×4</tspan></text>
+    <text x="123" y="209" font-size="26" font-weight="bold">S<tspan font-size="17" font-weight="normal"> ×7</tspan></text>
+    <text x="248" y="209" font-size="26" font-weight="bold">F<tspan font-size="17" font-weight="normal"> ×6</tspan></text>
+    <text x="345" y="209" font-size="24" font-weight="bold">C<tspan font-size="15" font-weight="normal"> ×4</tspan></text>
+    <text x="431" y="209" font-size="26" font-weight="bold">A<tspan font-size="17" font-weight="normal"> ×5</tspan></text>
+    <text x="537" y="209" font-size="26" font-weight="bold">S<tspan font-size="17" font-weight="normal"> ×6</tspan></text>
+    <text x="623" y="209" font-size="20" font-weight="bold">A<tspan font-size="13" font-weight="normal"> ×3</tspan></text>
+    <text x="700" y="209" font-size="26" font-weight="bold">F<tspan font-size="17" font-weight="normal"> ×5</tspan></text>
+    <text x="787" y="209" font-size="24" font-weight="bold">C<tspan font-size="15" font-weight="normal"> ×4</tspan></text>
   </g>
 
   <!-- REIHE C – vorne -->
   <g stroke="#ffffff" stroke-width="1.5">
-    <rect x="55"  y="238.5" width="88"  height="71.5" fill="#8fc9bd"/>
-    <rect x="143" y="238.5" width="110" height="71.5" fill="#a8d3e0"/>
-    <rect x="253" y="238.5" width="110" height="71.5" fill="#b6d6a0"/>
-    <rect x="363" y="238.5" width="88"  height="71.5" fill="#f2c4d8"/>
-    <rect x="451" y="238.5" width="55"  height="71.5" fill="#d986b4"/>
-    <rect x="506" y="238.5" width="77"  height="71.5" fill="#a8d3e0"/>
-    <rect x="583" y="238.5" width="77"  height="71.5" fill="#8fc9bd"/>
-    <rect x="660" y="238.5" width="110" height="71.5" fill="#b6d6a0"/>
-    <rect x="770" y="238.5" width="55"  height="71.5" fill="#d986b4"/>
+    <rect x="55"  y="238.5" width="80"  height="71.5" fill="#8fc9bd"/>
+    <rect x="135" y="238.5" width="93"  height="71.5" fill="#a8d3e0"/>
+    <rect x="228" y="238.5" width="93"  height="71.5" fill="#b6d6a0"/>
+    <rect x="321" y="238.5" width="93"  height="71.5" fill="#f2c4d8"/>
+    <rect x="414" y="238.5" width="66"  height="71.5" fill="#d986b4"/>
+    <rect x="480" y="238.5" width="66"  height="71.5" fill="#a8d3e0"/>
+    <rect x="546" y="238.5" width="53"  height="71.5" fill="#b6d6a0"/>
+    <rect x="599" y="238.5" width="80"  height="71.5" fill="#8fc9bd"/>
+    <rect x="679" y="238.5" width="93"  height="71.5" fill="#b6d6a0"/>
+    <rect x="772" y="238.5" width="53"  height="71.5" fill="#d986b4"/>
   </g>
   <g fill="#1c1c1c" text-anchor="middle">
-    <text x="99"  y="282" font-size="22" font-weight="bold">H<tspan font-size="14" font-weight="normal"> ×5</tspan></text>
-    <text x="198" y="282" font-size="22" font-weight="bold">N<tspan font-size="14" font-weight="normal"> ×7</tspan></text>
-    <text x="308" y="282" font-size="22" font-weight="bold">T<tspan font-size="14" font-weight="normal"> ×7</tspan></text>
-    <text x="407" y="282" font-size="22" font-weight="bold">G<tspan font-size="14" font-weight="normal"> ×6</tspan></text>
-    <text x="478" y="282" font-size="22" font-weight="bold">D<tspan font-size="14" font-weight="normal"> ×3</tspan></text>
-    <text x="544" y="282" font-size="22" font-weight="bold">N<tspan font-size="14" font-weight="normal"> ×5</tspan></text>
-    <text x="621" y="282" font-size="22" font-weight="bold">H<tspan font-size="14" font-weight="normal"> ×5</tspan></text>
-    <text x="715" y="282" font-size="22" font-weight="bold">T<tspan font-size="14" font-weight="normal"> ×7</tspan></text>
-    <text x="797" y="282" font-size="22" font-weight="bold">D<tspan font-size="14" font-weight="normal"> ×3</tspan></text>
+    <text x="95"  y="282" font-size="22" font-weight="bold">H<tspan font-size="14" font-weight="normal"> ×6</tspan></text>
+    <text x="182" y="282" font-size="22" font-weight="bold">N<tspan font-size="14" font-weight="normal"> ×7</tspan></text>
+    <text x="275" y="282" font-size="22" font-weight="bold">T<tspan font-size="14" font-weight="normal"> ×7</tspan></text>
+    <text x="368" y="282" font-size="22" font-weight="bold">G<tspan font-size="14" font-weight="normal"> ×7</tspan></text>
+    <text x="447" y="282" font-size="22" font-weight="bold">D<tspan font-size="14" font-weight="normal"> ×5</tspan></text>
+    <text x="513" y="282" font-size="22" font-weight="bold">N<tspan font-size="14" font-weight="normal"> ×5</tspan></text>
+    <text x="573" y="282" font-size="18" font-weight="bold">T<tspan font-size="12" font-weight="normal"> ×4</tspan></text>
+    <text x="639" y="282" font-size="22" font-weight="bold">H<tspan font-size="14" font-weight="normal"> ×6</tspan></text>
+    <text x="726" y="282" font-size="22" font-weight="bold">T<tspan font-size="14" font-weight="normal"> ×7</tspan></text>
+    <text x="799" y="282" font-size="18" font-weight="bold">D<tspan font-size="12" font-weight="normal"> ×4</tspan></text>
   </g>
 
   <g font-size="10" fill="#6b6459" text-anchor="start">
@@ -98,31 +100,31 @@
   <g font-size="13" fill="#2c2c2c">
     <rect x="55" y="430" width="22" height="18" fill="#b9c9e8" stroke="#8a8377"/>
     <text x="66" y="444" font-size="14" font-weight="bold" text-anchor="middle">P</text>
-    <text x="88" y="444">Blauraute · Perovskia `Blue Spire` — 8 Stk</text>
+    <text x="88" y="444">Blauraute · Perovskia `Blue Spire` — 5 Stk</text>
 
     <rect x="55" y="454" width="22" height="18" fill="#d8dcb0" stroke="#8a8377"/>
     <text x="66" y="468" font-size="14" font-weight="bold" text-anchor="middle">E</text>
-    <text x="88" y="468">Silber-Ährengras · Achnatherum calamagr. — 9 Stk</text>
+    <text x="88" y="468">Silber-Ährengras · Achnatherum calamagr. — 6 Stk</text>
 
     <rect x="55" y="478" width="22" height="18" fill="#ddd6ea" stroke="#8a8377"/>
     <text x="66" y="492" font-size="14" font-weight="bold" text-anchor="middle">M</text>
-    <text x="88" y="492">Myrtenaster · Aster ericoides `Erlkönig` — 5 Stk</text>
+    <text x="88" y="492">Myrtenaster · Aster ericoides `Erlkönig` — 4 Stk</text>
 
     <rect x="55" y="502" width="22" height="18" fill="#b49ad6" stroke="#8a8377"/>
     <text x="66" y="516" font-size="14" font-weight="bold" text-anchor="middle">S</text>
-    <text x="88" y="516">Steppen-Salbei · Salvia `Caradonna` — 15 Stk</text>
+    <text x="88" y="516">Steppen-Salbei · Salvia `Caradonna` — 13 Stk</text>
 
     <rect x="55" y="526" width="22" height="18" fill="#f0b0a4" stroke="#8a8377"/>
     <text x="66" y="540" font-size="14" font-weight="bold" text-anchor="middle">F</text>
-    <text x="88" y="540">Fetthenne · Sedum telephium `Matrona` — 12 Stk</text>
+    <text x="88" y="540">Fetthenne · Sedum telephium `Matrona` — 11 Stk</text>
 
     <rect x="55" y="550" width="22" height="18" fill="#f2cf8a" stroke="#8a8377"/>
     <text x="66" y="564" font-size="14" font-weight="bold" text-anchor="middle">A</text>
-    <text x="88" y="564">Schafgarbe · Achillea `Terracotta` — 9 Stk</text>
+    <text x="88" y="564">Schafgarbe · Achillea `Terracotta` — 8 Stk</text>
 
     <rect x="450" y="430" width="22" height="18" fill="#cfe4e0" stroke="#8a8377"/>
     <text x="461" y="444" font-size="14" font-weight="bold" text-anchor="middle">C</text>
-    <text x="483" y="444">Steinquendel · Calamintha nepeta — 9 Stk</text>
+    <text x="483" y="444">Steinquendel · Calamintha nepeta — 8 Stk</text>
 
     <rect x="450" y="454" width="22" height="18" fill="#a8d3e0" stroke="#8a8377"/>
     <text x="461" y="468" font-size="14" font-weight="bold" text-anchor="middle">N</text>
@@ -130,25 +132,25 @@
 
     <rect x="450" y="478" width="22" height="18" fill="#b6d6a0" stroke="#8a8377"/>
     <text x="461" y="492" font-size="14" font-weight="bold" text-anchor="middle">T</text>
-    <text x="483" y="492">Thymian · Thymus praecox / vulgaris — 14 Stk</text>
+    <text x="483" y="492">Thymian · Thymus praecox / vulgaris — 18 Stk</text>
 
     <rect x="450" y="502" width="22" height="18" fill="#8fc9bd" stroke="#8a8377"/>
     <text x="461" y="516" font-size="14" font-weight="bold" text-anchor="middle">H</text>
-    <text x="483" y="516">Herbst-Blaugras · Sesleria autumnalis — 10 Stk</text>
+    <text x="483" y="516">Herbst-Blaugras · Sesleria autumnalis — 12 Stk</text>
 
     <rect x="450" y="526" width="22" height="18" fill="#d986b4" stroke="#8a8377"/>
     <text x="461" y="540" font-size="14" font-weight="bold" text-anchor="middle">D</text>
-    <text x="483" y="540">Karthäusernelke · Dianthus carthusianorum — 6 Stk</text>
+    <text x="483" y="540">Karthäusernelke · Dianthus carthusianorum — 9 Stk</text>
 
     <rect x="450" y="550" width="22" height="18" fill="#f2c4d8" stroke="#8a8377"/>
     <text x="461" y="564" font-size="14" font-weight="bold" text-anchor="middle">G</text>
-    <text x="483" y="564">Blut-Storchschnabel · Geranium sanguineum — 6 Stk</text>
+    <text x="483" y="564">Blut-Storchschnabel · Geranium sanguineum — 7 Stk</text>
   </g>
 
   <text x="55" y="586" font-size="12" fill="#666">Zwiebeln (250 Stk) dazwischen streuen – kein fester Platz. Nur kleine Wildarten: Allium sphaerocephalon, Crocus, Wildtulpe.</text>
 
   <line x1="55" y1="600" x2="825" y2="600" stroke="#ddd8cf" stroke-width="1"/>
-  <text x="55" y="620" font-size="12" fill="#666">Pflanzabstände: Reihe hinten ca. 55–65 cm · Mitte ca. 35 cm · vorne ca. 28 cm. Dichter als im Gartenboden – schließt die Fläche schneller.</text>
+  <text x="55" y="620" font-size="12" fill="#666">Pflanzabstände: hinten ca. 55 cm (3,3 Stk/m²) · Mitte 35 cm (8,2 Stk/m²) · vorne 28 cm (12,7 Stk/m²). Stückzahlen gegen die Reihenfläche gerechnet, nicht geschätzt.</text>
   <text x="55" y="638" font-size="12" fill="#666">Blockgrenzen sind Richtwerte – an den Rändern die Gruppen leicht ineinander laufen lassen, das wirkt natürlicher.</text>
   <text x="55" y="656" font-size="12" fill="#c0392b" font-weight="bold">Kein Spaten, keine Grabegabel! Nur Handschaufel – darunter liegt die ca. 13 Jahre alte Wurzelschutzbahn.</text>
 
